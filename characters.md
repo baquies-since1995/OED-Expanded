@@ -104,7 +104,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Swim**: Fighters gain a +2 in 6 to Swim.
 
-**Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
+**Sweep Attacks**: Against 1 HD opponents, fighters can melee attack a number of times equal to their level in one round.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
