@@ -95,13 +95,13 @@ A settlement is a good second campaign item to work on. This first settlement is
 
 **Capital**: Much like a city, but larger, and likely the center of power (political or mercantile) for a region. 
 
-**Max Pop**: This is the maximum number of people found in the community proper. You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed, with another 10% qualifying as Light Infantry 
+**Max Pop**: This is the maximum number of people found in the community proper. You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed, with another 10% qualifying as Light Infantry.
 
 **Market Cap**: Items below this price can be readily found for sale in the community. Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
 
 **No. of Hirelings**: This is the number of available hirelings per season in the area. 
 
-**NPC level**: This is the highest level of NPCs one is likely to encounter. Folks above this level may be present, but they are special individuals, like adventurers or authority figures for example.
+**NPC level**: This is the highest level of NPCs one is likely to encounter. Folks above this level may be present, but they are special individuals, like adventurers or authority figures, for example.
 
 **Sphere of Influence**: How much of the surrounding land the settlement is able to keep peaceful and under control, expressed in 6 miles hexes (see below). The populations of these areas are generally safe from monsters and attacks (random encounters). 
 
@@ -185,11 +185,11 @@ Remember, at this scale we are mainly concerned with showing major features. The
 
 #### Quick Start
 
-If you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations (school, downtown, shopping center) for settlements and monster lairs.
+If you don't want to take a great deal of time procedurally generating hexes, instead just take a map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations (school, downtown, shopping center) for settlements and monster lairs.
 
 ### Strongholds
 
-A Stronghold is a special kind of settlement, typically established by high level NPCs. It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc. Like Towns, they secure they Hex in which they are located. A stronghold is defined by its occupant(s), which are generated using the rules for NPCs, with a lovel of 9+1d6 (or use the quick list below)
+A Stronghold is a special kind of settlement, typically established by high level NPCs. It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc. Like Towns, they secure they Hex in which they are located. A stronghold is defined by its occupant(s), which are generated using the rules for NPCs, with a level of 9+1d6 (or use the quick list below)
 
 |**d6**|**Stronghold Occupant**                                                                                            |
 |:-----|:------------------------------------------------------------------------------------------------------------------|
@@ -392,7 +392,7 @@ It is recommended the PC spend at minimum 1 month in their Stronghold per season
 
 ### Managing the Stronghold
 
-For basic gameplay, the Judge can presume that such a Stronghold can sustain itself with regard to staffing, resources, and security under most circumstances as part of the PC's monthly upkeep costs. If the PCs wish to explore the hiring of specialists or other economic actives, there is a list of specialists, siege weaponry, etc. in Volume III. 
+For basic gameplay, the Judge can presume that such a Stronghold can sustain itself with regard to staffing, resources, and security under most circumstances as part of the PC's monthly upkeep costs. If the PCs wish to explore the hiring of specialists or other economic actives, there is a list of specialists, siege weaponry, etc. in Volume III. If Book of War is used, a Stronghold can muster up a 300 point force of mundane warriors (or appropriate "fantasy" units with GM's permission) 
 
 For variety, the Judge can roll 2d6 on the table below once per season to determine special happenings
 
