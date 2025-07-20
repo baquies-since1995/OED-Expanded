@@ -13,7 +13,7 @@ We will start by designing one of these levels/areas. A starting dungeon area sh
 - Mark another area to be an exit to different level or area.
 - In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is a hidden or a secret door.
 - Now, connect your rooms with hallways. Keep in mind they aren’t simply connected all in a line. For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected. Again, there is a 50/50 chance that such a connection is concealed.
-- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Open Doorway (optional: additional 1 in 6 for a tick door: one way, portcullis, false door, etc.)
+- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Open Doorway (optional: additional 1 in 6 for a trick door: one way, portcullis, false door, etc.)
 - Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
 - Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this dungeon further.
 
