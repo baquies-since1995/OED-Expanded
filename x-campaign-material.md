@@ -95,7 +95,7 @@ A settlement is a good second campaign item to work on. This first settlement is
 
 **Capital**: Much like a city, but larger, and likely the center of power (political or mercantile) for a region. 
 
-**Max Pop**: This is the maximum number of people found in the community proper. You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed.
+**Max Pop**: This is the maximum number of people found in the community proper. You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed, with another 10% qualifying as Light Infantry 
 
 **Market Cap**: Items below this price can be readily found for sale in the community. Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
 
