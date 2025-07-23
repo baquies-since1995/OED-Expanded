@@ -269,6 +269,7 @@ Each terrain type has a difficulty factor associated with it, this value represe
 
 - Any major river, ravine, or other obstacle will add +1 to the difficulty factor.
 - Traveling along a major road will subtract 1 from the difficulty factor (min 1).
+- Stormy/Snowy/Wintery conditions will add +1 to the difficulty factor.
 - \* Mountain Hex: there is a 1 in 6 chance to make progress in a given day, unless there is a pass.
 - Night travel costs double (unless a full moon, on a clear night, in open terrain) and adds a +2 to the difficulty factor, even with Infravision. 
 
@@ -295,9 +296,9 @@ The above rules assume groups have suffiecient and water for their journey, supp
 
 *Presumes water is readily available
 
-**Lack of Water**: Creatures subtract 1d6 points from their Max HP per day without water. The creature's Max HP recover at a rate of 1 HP per day of proper nutrition.  
+**Lack of Water**: Creatures temporarily subtract 1d6 points from their Max HP per day without water. The creature's Max HP recover at a rate of 1 HP per day of proper nutrition.  
 
-**Lack of Food**: Creatures subtract 1d6 points from their Max HP per week without food.  The creature's Max HP recover at a rate of 1 HP per day of proper hydration.  
+**Lack of Food**: Creatures temporarily subtract 1d6 points from their Max HP per week without food.  The creature's Max HP recover at a rate of 1 HP per day of proper hydration.  
 
 If a creature's Max HP is reduced to below half from lack of food and/or water (or exposure/see below), then the creature’s movement is halved. 
 
@@ -310,9 +311,10 @@ A tried and true way to determine the weather at any given time in game is to lo
 |------|:-------------------------------------------------------|
 | 1-3 |Clear: (Orcs, Goblins, etc. suffer daylight penalties)|
 | 4-5 |Cloudy: (no modifiers)|
-| 6* |Precipitation: ½ Movement/Flight, -4 penalty to missile attacks, composite bows can not fire. +1 chance to get lost.|
+| 6* |Precipitation: ½ Movement/Flight, -4 penalty to missile attacks**, composite bows can not fire. +1 chance to get lost.|
 
 *1 in 6 chance to be Stormy: No ranged attacks, -1 to Morale, Creatures must shelter or risk exposure/damage.
+**Snow makes movement more difficult but does not impede ranged missile fire like rain does.
 		
 For added variety, the Judge can opt to have a 1 in 6 chance of a change in weather to come through in at a given point in the day (morning, afternoon, evening, or night). This can also include warmer or colder than normal temperatures.
 
@@ -337,7 +339,7 @@ Characters must be adequately dressed or acclimated to the weather (including ar
 
 ***Prohibits wearing of Chain or Plate Armor
  
-**Extreme Temperatures**: Creatures subtract 1d6 points from their Max HP per hour of exposure.  For every additional "step" outside their comfort range, the penalty accrues more quickly.  1 step = hourly; 2 steps = every 10 minutes; 3 steps = each minute; 4 steps = -1d6 each round.
+**Extreme Temperatures**: Creatures temporarily subtract 1d6 points from their Max HP per hour of exposure.  For every additional "step" outside their comfort range, the penalty accrues more quickly.  1 step = hourly; 2 steps = every 10 minutes; 3 steps = each minute; 4 steps = -1d6 each round.
 The creature's Max HP recover at a rate of 1 HP per hour of proper shelter.  
 
 If a creature's Max HP is reduced to below half from exposure (or starvation as above), then the creature’s movement is halved. 
@@ -382,7 +384,7 @@ There are no longer random encounters / monster lairs within the Hex.
 
 The PC no longer needs to replenish mundane items such as torches, rations, etc. prior to embarking on an adventure. It is presumed “their people” take care of these tasks.
 
-The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 2d6 people) settle in per season. The standard stronghold can support and protect a community of up to 6500, with 20% of this population able to take up arms to defend it.
+The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 2d6 people) settle in per season. The standard stronghold can support and protect a community of up to 6500, with 20% of this population able to take up arms to defend it as 0 level NPCs, with another 10% qualifying as Light Infantry.
 
 A Stronghold is protected by a compliment of 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms. For every 30 soldiers there is also a sergeant of 4th level. These forces begin to arrive in proportion to the completion of the construction.
 
