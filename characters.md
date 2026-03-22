@@ -6,7 +6,7 @@ Prior to the selection of character race and class, one should determine ability
 
 ### Generation
 
-Roll abilities 3d6 in order, then add 3 points among any scores desired (max 18). 
+Roll abilities 3d6 in order, then add 3 points among any scores as desired (max 18). 
 
 ### Modifiers
 
@@ -31,7 +31,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OED, ability scores do not affect XP earned.
+**Experience Points**: In OED, ability scores do _not_ affect XP earned.
 
 ## Languages
 
@@ -47,43 +47,59 @@ In OED the modifiers from your ability scores affect the attributes listed below
 OED features 3 alignment options:
 
 - *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
-- *Neutral* beings seek a balance, or are simply disinterested.
+- *Neutral* Generally unaware or disinterested in philosophy or cosmic forces (animals fall into this category).  Some actively seek to keep the forces of Law and Chaos in balance.
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
 
 ## Races
 
-**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
+**Movement**: In OED all PC races move at a base speed of 12" (60') per round, equivalent to brisk walking pace.
 
 ### Humans
+Humans are found in all the lands and types as in our own world, being highly prolific and adaptable.
 
 **Class Options**: Can be a member of any class, and advance to a unlimited levels.
 
+**Starting Languages**: Common
+
+
 ### Dwarves
+These mountain dwellers are about four feet tall, stocky of build and broad of shoulder.  Their skin a ruddy tan, brown or grey and they wear long beards. They are sturdy fighters.
+
+**Class Options**: Fighter (max 6th), Thief (unlimited) 
+
+**Starting Languages**: Common, Dwarf
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
 ### Elves
+Hailing from ancient forests, they stand five or more feet in height, slim of build, and ageless in appearance.  Elves are adept in the use of magic.
+
+**Class Options**: Fighter (max 4th), Thief (unlimited), Magic-User (max 8th). Elves start as a member of BOTH the Magic-User class and one other class.
+
+**Starting Languages**: Common, Elf
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and either the Thief or Fighter class.
 
 ### Halflings
+Found in quiet corners of human lands, these diminutive folk barely reach three feet tall.  They have long and skillful fingers useful for many a craft.
+
+**Class Options**: Fighter (max 4th), Thief (unlimited)
+
+**Starting Languages**: Common, Halfling
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4. Can use Light Melee weapons or use Medium Melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
 ## Classes
 
-OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
+OED features three character classes: Fighter, Thief, and Magic-User. There are no Clerics in OED.
 
 **Starting Hit Points**: When determining HP at first level, reroll 1s and 2s.
 
-### Fighters
+### Fighting
 
 **Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields.
 
@@ -121,11 +137,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 11. *Two-Weapon Fighting*: The character can fight with a Light Melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
 12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
 
-### Thieves
+### Thief
 
 **Armor**: Light (Leather) Armor.
 
-**Weapons**: Light Weapons plus Sword, Sling, and Light Crossbow.
+**Weapons**: Light Melee Weapons plus Sword, Sling, and Light Crossbow.
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |--------------------------------------------------|
@@ -155,7 +171,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 - *Pick Pockets*: Can also be used to allow the Thief to perform acts of sleight of hand.
 - *Remove Traps*: Making use of materials at hand, the thief can neutralize small mechanical devices, needle traps, etc. The Judge should rarely consider a mishap on natural 1.
 
-### Wizards
+### Magic-User
 
 **Armor**: None.
 
@@ -183,11 +199,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
-**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense, the same as learning spells.
+**Spellbook**: Magic-Users start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense, the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Magic-Users Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Magic-Users Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
@@ -197,21 +213,19 @@ The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
+**Adding Classes**: To take on an additional class, a character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thief, Intelligence for Magic-Users).  In addition, they must pay 1000xp at the time they add the new class. 
 
-*Note*: Elves begin play as a member of the Wizard class and either Fighter or Thief, without needing to meet the above requirements.
+*Note*: Elves begin play as a member of the Magic-User class and either Fighter or Thief, without needing to meet the above requirements.
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
 **Benefits of Multiclassing**:
 
 -   Uses best entry for Armor.
+    -   Fighter/Magic-Users may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield, retaining a free hand with which to gesture.
+    -   Thief skills can only be used in Light (Leather) armor.
 -   Uses best entry for Weapons.
+    -   Fighter/Magic-Users may cast spells so long as they only wield 1 handed melee weapon, retaining a free hand with which to gesture.    
 -   Uses best value for Attacks
 -   Uses highest class for Saves,
 -   Keep a separate HP tally for each class and use the higher of the two for your character's HP.
--   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
--   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
--   Thief skills can only be used in Light (Leather) armor.
-
-
