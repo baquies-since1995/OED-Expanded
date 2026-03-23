@@ -1,5 +1,7 @@
 # Resources
 
+[OD&D Dungeons & Dragons Original Edition (0e)](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e)
+
 [Delta's D&D Hotspot](http://deltasdnd.blogspot.com/)
 
 [OED Games website](http://oedgames.com/)
