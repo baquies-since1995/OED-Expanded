@@ -10,6 +10,31 @@ To determine the outcome of the engagement, each side of engagement rolls a d% a
 
 For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.
 
+| Unit | Cost | Unit | Cost | Solo | Cost |
+|---|---:|---|---:|---|---:|
+| Light Foot | 4 | Dwarf Medium Foot | 6 | Lord 9th Level | 50 |
+| Medium Foot | 5 | Dwarf Heavy Crossbows | 10 | Lord 12th Level | 65 |
+| Heavy Foot | 8 | Dwarf Cranequiniers | 15 | Lord 15th Level | 75 |
+| Pikemen | 5 | Dwarf Elite Foot | 25 | Lord 18th Level | 125 |
+| Crossbows | 6 | Halfling Elite Slingers | 25 | Lord & Griffon | 60 |
+| Archers | 8 | Elf Elite Archers | 30 | Wizard 11th Level | 90 |
+| Longbows | 10 | Unicorn Warriors | 50 | Wizard 12th Level | 120 |
+| Heavy Crossbows | 10 | Goblin Light Foot | 3 | Wizard 13th Level | 150 |
+| Light Horse | 10 | Goblin Archers | 6 | Wizard 14th Level | 180 |
+| Medium Horse | 12 | Goblin Wolf Riders | 8 | Wizard 15th Level | 210 |
+| Heavy Horse | 20 | Orc Light Foot | 3 | Wizard 16th Level | 240 |
+| Horse Archers | 12 | Orc Medium Foot | 4 | Lich & Wyvern | 200 |
+| Men Elite Foot | 25 | Orc Archers | 6 | Cloud Giant | 50 |
+| Men Elite Knights | 35 | Hobgoblin Med Foot | 5 | Storm Giant | 60 |
+| Elephant Spears | 60 | Gnoll Medium Foot | 10 | Titan | 100 |
+| Elephant Archers | 60 | Gnoll Longbows | 15 | White Dragon | 80 |
+| Stone Giants | 90 | Bugbears | 15 | Black Dragon | 80 |
+| Halfling Light Foot | 5 | Ogres | 20 | Green Dragon | 80 |
+| Halfling Slingers | 12 | Trolls | 60 | Blue Dragon | 80 |
+| Elf Light Foot | 5 | Hill Giants | 60 | Red Dragon | 80 |
+| Elf Medium Foot | 6 | Frost Giants | 80 | Gold Dragon | 80 |
+| Elf Archers | 8 | Fire Giants | 85 |  |  |
+
 ## Clerics
 
 If thou must...
@@ -47,6 +72,27 @@ An Example Notation for a 10th level Cleric: "Turn Undead: HD = d6+5; 2d6 creatu
 
 **Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
+**Cleric Spell List**
+
+|**Level 1**              |**Level 2**               |**Level 3**                  |
+|:------------------------|:-------------------------|:----------------------------|
+|1\. Cure Light Wounds*   |1\. Bless*                |1\. Cure Disease*            |
+|2\. Detect Evil*	      |2\. Continual Light*      |2\. Locate Object            |
+|3\. Detect Magic         |3\. Find Traps            |3\. Prayer                   |
+|4\. Light                |4\. Hold Person           |4\. Protection from Fire     |
+|5\. Protection from Evil |5\. Silence		         |5\. Remove Curse             |
+|6\. Purify Food & Water* |6\. Speak with Animals    |6\. Speak with Dead          |
+
+|**Level 4**              |**Level 5**               |**Level 6**                  |
+|:------------------------|:-------------------------|:----------------------------|
+|1\. Create Water         |1\. Commune               |1\. Animate Objects          |
+|2\. Cure Serious Wounds* |2\. Create Food           |2\. Blade Barrier            |
+|3\. Neutralize Poison    |3\. Dispel Evil           |3\. Find the Path            |
+|4\. Protection from Lightning |4\. Insect Plague    |4\. Speak with Monsters      |
+|5\. Speak with Plants    |5\. Quest                 |5\. Repulsion                |
+|6\. Sticks to Snakes     |6\. Raise Dead            |6\. Word of Recall           |
+
+
 ## Cleric and Other Spells
 
 Below is a summary of Cleric, Druid, and Magic User spells not included
@@ -59,7 +105,6 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |1      |Cure Light Wounds     |Touch   |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  Restoring the target's Vigor.  |
 |1      |Detect Good           |15'     |12 Turns    |The caster can sense the presence of beneficial intent within creatures, objects, and locations. Stronger good will radiate more intensely.  |
 |1      |Faerie Fire           |30'     |6 Turns     |This spell causes any creatures in a 10' radius globe to be outlined by lights as if by torchlight, they then remain so illuminated for the duration of the spell.|
-|1      |Hold Undead           |60'     |6 Turns     |This spell causes Undead creatures within a 10' radius sphere to be frozen in place. It affects 2d6 HD worth of Undead with 4HD or less, lowest HD creatures are affected first.  |
 |1      |Locate Animals        |120'    |3 Turns     |The caster senses the direction of a well-known or clearly visualized animal. The caster can search for general animals such as a bear, dog, or snake, in which case he or she locates the nearest one of its type. Attempting to find a specific animal requires an accurate mental image.|
 |1      |Predict Weather       |Personal|Instant     |You are able to forecast the natural weather in the local area with 100% accuracy for the next 12 hours.  |
 |1      |Purify Food & Water   |30'     |Instant     |This spell will transmute enough food and water for 12 people from spoiled and/or poisoned to a consumable state.|
@@ -73,7 +118,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |2      |Find Traps            |30'     |3 Turns     |The caster will become aware of the presence of mechanical or magical traps.  |
 |2      |Heat Metal            |15'     |3 Turns     |This spell will cause a volume of metal equivalent to 1 suit of plate, 2 shirts of chain, or 6 shields/weapons/helms (withing a 10' radius globe) to become hot to the touch. Crearures in conact with any number of such items will suffer 1d6 points of heat/fire damage per round of contact. Targets can attempt to drop/remove items to avoid further damage.  |
 |2      |Obscurement           |60'     |3 Turns     |A mist forms within a 10' radius globe that obscures all forms of vision within the area.|
-|2      |Silent Radius         |120'    |12 Turns    |This spell creates a 10' radius shell around a focus Creature or Object.  Sound can not pass out of the shell. Creatures within the sphere can one another, and sounds from beyond.  |
+|2      |Silence         |120'    |12 Turns    |This spell creates a 10' radius shell around a focus Creature or Object.  Sound can not pass out of the shell. Creatures within the sphere can one another, and sounds from beyond.  |
 |2      |Snake Charm           |30'     |1 Day       |The caster is able to charm and command 1 HD worth of snake(s) per caster level. |
 |2      |Speak with Animals    |30'     |6 Turns     |The caster can converse with animals as they would another person and receive understandable replies. Further, the animal initial reacts towards the caster as if succeeding on morale/reaction check.  |
 |2      |Warp Wood             |30'     |Instant     |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers (within a 10' radius globe) to swell and warp becoming useless.|
@@ -103,7 +148,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |:-----:|:---------------------|:--------|:-------------|:-----------------------------------------------|
 |5      |Commune               |Personal |3 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will always answer truthfully, or respond that is does not know.  The entity has a 2 in 6 chance of knowing the answer.  Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The Judge may rule that frequent castings may be less effective.  |
 |5      |Create Food           |30'      |Instant       |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
-|5      |Dispel Evil (Good)    |30'      |6 Turns       |This spell drives off undead and summoned creatures of 8HD or less within range, causing them to withdraw for 6 Turns. |
+|5      |Dispel Evil    |30'      |6 Turns       |This spell drives off undead and summoned creatures of 8HD or less within range, causing them to withdraw for 6 Turns. |
 |5      |Finger of Death       |60'      |Instant       |This spell will reduce a living creature of 8HD or less to 0HP unless a Save vs Death is made. |
 |5      |Insect Plague         |240'     |12 Turns ( C )|The caster conjures up a vast cloud of insects taking up a 60' by 60' square that can be directed where needed within range. The cloud can obscure vision, disrupt concentration, and cause creatures of less than 4 HD to flee. Concentration is required on rounds that the user is moving the cloud.  |
 |5      |Quest                 |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The Judge should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
@@ -134,9 +179,6 @@ For even more spells, a Judge can reference the
 [Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
-
-
-
 ## Language and Literacy
 
 The original game presumes a binary approach to languages. The below is intended to add some granularity to how languages are handled while still fitting into the base rules.
@@ -161,47 +203,27 @@ Should a creature find themselves immersed in a new language (and have no spare 
 - You can never become a Fluent speaker in this manner.
 - You will lose this language if you leave immersion for a Season or more (the Judge may allow you to “pick it up” again at an accelerated rate).
 
-Long Journeys
+## Long Journeys
 Perhaps you wish to abstract a long journey across a reasonably known area, instead of exploration.  For each 100 miles of travel (16 hexes), roll a Wilderness encounter (above).  In addition, roll on the table below, to describe their condition on arrival. Modify the roll by adding the Difficulty Factor of the worst terrain encountered on the route.  Parties can subtract their Survival and Tracking d6 rolls from result.
 
-	2d6		Outcome 
-	2 or Less	Good Journey: Arrive 10% early, get a free Rumor about destination.
-	3-5		Arrive Safe: Arrive on time.
-	6-8		Delayed: Arrive 1d3 days behind, no ill effects.
-	9-11		Attacked/Bloodied: Each traveler loses one-quarter of their current HP.
-	12+		Low Resources/Exposure: Save vs Death or lose 1d6 Strength; lose ½ current HP.
+| 2d6 | Outcome |
+|---|---|
+| 2 or Less | Good Journey: Arrive 10% early, get a free Rumor about destination. |
+| 3-5 | Arrive Safe: Arrive on time. |
+| 6-8 | Delayed: Arrive 1d3 days behind, no ill effects. |
+| 9-11 | Attacked/Bloodied: Each traveler loses one-quarter of their current HP. |
+| 12+ | Low Resources/Exposure: Save vs Death or lose 1d6 Strength; lose ½ current HP. |
 	
 
 
-Nautical Adventuring
+## Nautical Adventuring
 Below is a simplified and ahistorical approach to allow manageable adventures and combats at sea.
 
 Types of Vessels
 There are countless types of vessels across history for use in a game world.  Just as the various types of weapons and armor are abstracted down to a few types, vessels are presented by the types below.
 
-Oared, Large:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  Example: Trireme
-Oared, Medium: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Example: Dromon
-Oared, Small: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Example: Longship
-Sailed, Large: These multi-masted vessels are capable of safely traversing the open ocean between 
-continents. However, they are unable to traverse all but the largest rivers. Example: Galleon
-Sailed, Medium: Possessing one or two masts, they are suitable for travel on inland seas or island 
-hoping. Example: Caravel.
-Sailed, Small: Single-masted, these vessels typically hug the coasts and traverse rivers. Example: Kogge.
 
-Vessel			Miles crossed	Tactical					Capacity/	Cost (sp) 
-Type	Dimensions	per 12 hrs	Speed		Aboard			Weapons	Avg HP	
-Oared 	 L 120’-160’; 	Oars 30		Oars*: 50’/rd 	20 Crew, 50 Warriors	150 tons/	30,000 
-Large LG	 W 20’-30’	Sail 50		Sail: 30’/rd	100 Rowers		Fore/Aft		160 HP	
-Oared VL L 75’-100’	Oars 30		Oars*: 40’/rd	15 Crew, 30 Warriors	100 tons		20,000
-Medium	 W 15’-20’	Sail 75		Sail: 50’/rd	60 Rowers				100 HP	
-Oared	 L 30’-60’; 	Oars 30		Oars*: 40’/rd	10 Crew, 20 Warriors	50 Tons		10,000
-Small SG	 W 10’-15’	Sail 60		Sail: 40’/rd	50 Rowers		Fore		60 HP	
-SailedG 	 L 100’-130’	Sail 75 		Sail: 50’/rd	20 Crew, 50 Warriors	400 tons/	40,000
-Large	 W 25’-30’								Fore/Aft		140 HP	
-SailedLM L 50’-80’; 	Sail 60 		Sail: 40’/rd	20 Crew			200 Tons/	20,000
-Medium	 W 15’-25’								Fore		85 HP	
-Sailed	 L 25’-40’; 	Sail 60 		Sail: 40’/rd	15 Crew			50 Tons		5,000
-Small SM W 10’-15’										45 HP	
+
 Dimensions: This is the range of Keel length and Beam width that typifies this sort of vessel. 
 Distance per 12 hours: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
 Note: Ships propelled by Oar can not travel at night, they must land in order to rest and feed the rowers.  Ships traveling rivers, shallows, or hugging coasts may not travel at night.
