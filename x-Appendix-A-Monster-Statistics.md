@@ -1,0 +1,233 @@
+# Appendix A: Monster Statistics Summary
+
+| Monster | Number | AC | MV | HD | Lair% | Treas | Atk | Dam | Align | Type | EHD | hdd | Env | Source | Special |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Animated Tree | 1d2 | 2 | 3 | 8 | - | - | 2 | 2d6 | L | F | 10 | 8 | W | O | - |
+| Aquatic Elf | 3d10x10 | 5 | 0 | 1 | 30 | E | 1 | 1d6 | L | F | 1 | 1 | U | S2, M1 | Swimming (12), Camouflage, HitBonus (1) |
+| Balrog | 1d6 | 2 | 6 | 10 | 25 | F | 2 | 2d6 | C | B | 18 | 10 | D | O | Flight (15), MagicResistance (75), Immolation |
+| Bandit | 3d10x10 | 6 | 12 | 1 | 15 | A | 1 | 1d6 | N | M | 1 | 1 | D | O | - |
+| Basilisk | 1d6 | 4 | 6 | 6+1 | 40 | F | 1 | 1d6 | N | B | 20 | 6.3 | D | O | PetrifyingGaze, Petrification |
+| Bear | 1d6 | 5 | 12 | 6 | - | - | 2 | 1d6 | N | A | 6 | 6 | W | S1, M1 | Rending |
+| Beholder | 1 | 0 | 3 | 12 | 90 | I | 1 | 1d6 | N | B | 60 | 12 | D | S1 | Flight (3), ManyEyeFunctions |
+| Berserker | 3d10x10 | 7 | 12 | 1+1 | 15 | A | 1 | 1d6 | N | M | 1 | 1.3 | D | O | Fearlessness, HitBonus (2) |
+| Black Dragon | 1d4 | 2 | 9 | 7 | 60 | H | 2 | 2d6 | C | B | 12 | 7 | D | O | Flight (24), Detection (15), Fear (2), AcidBreath |
+| Black Pudding | 1 | 6 | 6 | 10 | - | - | 1 | 3d6 | N | S | 13 | 10 | D | O | WoodEating, MetalEating, VoltImmunity, ColdImmunity, ChopImmunity, Splitting |
+| Blink Dog | 4d4 | 5 | 12 | 4 | 30 | C | 1 | 1d6 | L | B | 3 | 4 | D | S1 | Blinking |
+| Blue Dragon | 1d4 | 2 | 9 | 9 | 60 | H | 2 | 2d6 | N | B | 15 | 9 | D | O | Flight (24), Detection (15), Fear (2), VoltBreath |
+| Boar | 1d12 | 7 | 15 | 3+3 | - | - | 1 | 1d6+1 | N | A | 3 | 3.9 | W | M1 | - |
+| Brigand | 3d10x10 | 6 | 12 | 1 | 15 | A | 1 | 1d6 | C | M | 1 | 1 | W | O | Bravery (1) |
+| Buccaneer | 3d10x10 | 6 | 12 | 1 | 15 | A | 1 | 1d6 | N | M | 1 | 1 | W | O | - |
+| Bugbear | 5d4 | 5 | 9 | 3+1 | 30 | B | 1 | 1d6+1 | C | H | 3 | 3.3 | D | S1 | Stealth (1) |
+| Bull | 1d20 | 6 | 15 | 4 | - | - | 1 | 1d6+2 | N | A | 3 | 4 | W | S1, M1 | Charge |
+| Carrion Crawler | 1d6 | 7 | 12 | 3+1 | 60 | B | 8 | 0 | N | B | 9 | 3.3 | D | S1 | Paralysis |
+| Catoblepas | 1d3 | 7 | 6 | 6+2 | - | - | 1 | 1d6 | N | B | 14 | 6.6 | W | SR7, M1 | DeathGaze, Stunning |
+| Caveman | 3d10 | 9 | 12 | 2 | 15 | A | 1 | 1d6+1 | N | M | 2 | 2 | W | O | Cowardice |
+| Centaur | 2d10 | 5 | 18 | 4 | 5 | A | 2 | 1d6 | L | F | 4 | 4 | W | O | - |
+| Champion | 1 | 2 | 9 | 7 | - | - | 1 | 1d8 | N | M | 7 | 7 | D | O | NPC |
+| Chimera | 1d4 | 4 | 12 | 9 | 50 | F | 3 | 1d6 | N | B | 10 | 9 | D | O | Flight (18), FireBreath (3) |
+| Cloud Giant | 1d8 | 4 | 12 | 12+2 | 30 | E | 1 | 3d6 | C | H | 12 | 12.6 | D | O | RockHurling, Detection |
+| Cockatrice | 1d8 | 6 | 9 | 5 | 35 | D | 1 | 1d6 | N | B | 6 | 5 | D | O | Flight (9), Petrification |
+| Conjurer | 1 | 9 | 12 | 3 | - | - | 1 | 1d4 | N | M | 6 | 3 | D | O | NPC, Spells |
+| Crocodile | 3d8 | 5 | 9 | 3 | - | - | 1 | 1d6 | N | A | 2 | 3 | U | O, M1 | Swimming (15) |
+| Dervish | 3d10x10 | 6 | 12 | 1+1 | 15 | A | 1 | 1d6 | L | M | 1 | 1.3 | W | O | Fearlessness, HitBonus (1) |
+| Dire Wolf | 3d4 | 6 | 18 | 3+3 | 10 | - | 1 | 1d6 | N | A | 2 | 3.9 | W | S1, M1 | - |
+| Displacer Beast | 1d4+1 | 4 | 15 | 6 | 35 | D | 2 | 1d6 | C | B | 6 | 6 | D | S1 | Displacement, SaveBonus (6) |
+| Djinni | 1 | 5 | 9 | 7+1 | - | - | 1 | 2d6-1 | N | X | 7 | 7.3 | X | O | Flight (24), Creation, Illusion, Invisibility, GasForm, Whirlwind (1) |
+| Dolphin | 2d10 | 6 | 0 | 2+2 | - | - | 1 | 1d6 | N | A | 2 | 2.6 | U | S2, M1 | Swimming (21) |
+| Doppleganger | 3d4 | 5 | 9 | 4 | 25 | E | 1 | 1d6+1 | N | B | 3 | 4 | D | S1 | Polymorphism, SaveBonus (6) |
+| Draft Horse | 1 | 7 | 12 | 2+1 | - | - | 1 | 1d6 | N | A | 2 | 2.3 | W | O | - |
+| Dragon Turtle | 1d4 | 2 | 3 | 12 | 60 | H | 2 | 2d6 | C | B | 25 | 12 | U | O | Swimming (9), Detection (15), Fear (2), SteamBreath |
+| Dryad | 1d6 | 5 | 12 | 2 | 20 | D | 1 | 1d3 | N | F | 5 | 2 | W | O | Charm (-2) |
+| Dwarf | 4d10x10 | 4 | 6 | 1 | 50 | G | 1 | 1d6 | L | F | 1 | 1 | W | O | SaveBonus (4), DodgeGiants |
+| Efreeti | 1 | 3 | 9 | 10 | - | - | 1 | 2d6 | C | X | 14 | 10 | X | O | Flight (24), Creation, Illusion, Invisibility, GasForm, WallOfFire |
+| Elf | 3d10x10 | 5 | 12 | 1+1 | 25 | E | 1 | 1d6 | L | F | 1 | 1.3 | W | O | Camouflage, HitBonus (1) |
+| Enchanter | 1 | 9 | 12 | 7 | - | - | 1 | 1d4 | N | M | 14 | 7 | D | O | NPC, Spells |
+| Ettin | 1d4 | 3 | 12 | 10 | 20 | C | 2 | 2d6 | C | H | 12 | 10 | D | M1 | Alertness |
+| Fire Giant | 1d8 | 4 | 12 | 11+3 | 30 | E | 1 | 2d6+2 | C | H | 11 | 11.9 | D | O | RockHurling, FireImmunity |
+| Fire Lizard | 1d4 | 2 | 9 | 12 | 60 | E | 2 | 2d6 | N | A | 13 | 12 | D | S2 | FireBreath (2), FireImmunity |
+| Flesh Golem | 1 | 9 | 9 | 12 | - | - | 1 | 2d6 | N | B | 15 | 12 | D | S1 | MagicToHit (1), MagicImmunity |
+| Floating Eye | 2d6 | 8 | 0 | 1 | - | - | 1 | 1d3 | N | B | 4 | 1 | U | S2, M1 | Swimming (36), Hypnosis |
+| Frost Giant | 1d8 | 4 | 12 | 10+1 | 30 | E | 1 | 2d6+1 | C | H | 10 | 10.3 | D | O | RockHurling, ColdImmunity |
+| Gargoyle | 2d10 | 5 | 9 | 4 | 25 | C | 2 | 1d6 | C | B | 5 | 4 | D | O | Flight (15), MagicToHit (1) |
+| Gelatinous Cube | 1 | 8 | 6 | 4 | - | - | 1 | 1d6 | N | S | 4 | 4 | D | S1 | Paralysis, VoltImmunity, ColdImmunity |
+| Ghast | 1d6 | 4 | 15 | 4 | 10 | G | 1 | 1d6+2 | C | U | 6 | 4 | D | M1 | Paralysis, Stench |
+| Ghoul | 2d12 | 6 | 9 | 2 | 20 | B | 1 | 1d6 | C | U | 3 | 2 | D | O | Paralysis, Spawn |
+| Giant Bombardier Beetle | 3d4 | 4 | 9 | 1 | - | - | 1 | 1d6+1 | N | A | 2 | 1 | W | S2 | AcidBreath (2) |
+| Giant Boring Beetle | 2d6 | 3 | 6 | 5 | 50 | A | 1 | 2d6 | N | A | 5 | 5 | D | S2 | - |
+| Giant Centipede | 2d12 | 9 | 15 | 1/3 | - | - | 1 | 0 | N | A | 1 | 0.4 | D | M1 | Poison (4) |
+| Giant Constrictor Snake | 1d2 | 5 | 9 | 6+1 | - | - | 1 | 1d6+2 | N | A | 6 | 6.3 | D | M1 | Constriction |
+| Giant Crab | 3d4 | 2 | 6 | 3 | - | - | 2 | 1d6+1 | N | A | 4 | 3 | U | O, S1, S2 | - |
+| Giant Crocodile | 2d6 | 5 | 9 | 6 | - | - | 1 | 2d6 | N | A | 5 | 6 | U | O, S2 | Swimming (15), Rending, Capsizing |
+| Giant Eel | 2d8 | 7 | 0 | 1+4 | - | - | 1 | 1d6+2 | N | A | 2 | 2.1 | U | S2 | Swimming (12), VoltBreath (2) |
+| Giant Fire Beetle | 3d4 | 4 | 9 | 1-1 | - | - | 1 | 1d6 | N | A | 1 | 0.8 | D | S2 | Light |
+| Giant Fish | 1 | 6 | 0 | 15 | - | - | 1 | 2d6 | N | A | 11 | 15 | U | O, M2 | Swimming (15), Whirlpool |
+| Giant Frog | 4d10 | 7 | 3 | 2 | - | - | 1 | 1d6 | N | A | 2 | 2 | D | S2 | Leaping, Constriction |
+| Giant Hog | 1d12 | 7 | 15 | 3+3 | - | - | 1 | 1d6 | N | A | 2 | 3.9 | D | M1 | - |
+| Giant Lamprey | 2d8 | 6 | 0 | 3 | - | - | 1 | 1d3 | N | A | 2 | 3 | U | S2 | Swimming (9), BloodDrain (3) |
+| Giant Leech | 2d6 | 8 | 6 | 2 | - | - | 1 | 1d6+1 | N | A | 2 | 2 | U | O, S2 | BloodDrain (2) |
+| Giant Lizard | 2d6 | 5 | 15 | 3+1 | - | - | 1 | 1d6 | N | A | 2 | 3.3 | D | S1, M1 | - |
+| Giant Manta Ray | 1d4 | 5 | 0 | 12 | - | - | 2 | 1d6 | N | A | 20 | 12 | U | S2, M1 | Swimming (12), Stealth (2), Swallowing, Paralysis |
+| Giant Octopus | 1d4 | 7 | 3 | 4 | 30 | A | 8 | 1d3 | N | A | 5 | 4 | U | O, S2, M1 | Swimming (9), Constriction, Jet, InkCloud |
+| Giant Poisonous Snake | 1d6 | 5 | 15 | 4+2 | - | - | 1 | 1d6 | N | A | 5 | 4.6 | D | M1 | Poison |
+| Giant Rat | 5d10 | 7 | 12 | 1/2 | 10 | C | 1 | 1d3 | N | A | 1 | 0.6 | D | S1, M1 | Disease |
+| Giant Rhinoceros Beetle | 1d6 | 2 | 6 | 12 | - | - | 1 | 1d6+2 | N | A | 10 | 12 | W | S2 | - |
+| Giant Scorpion | 1d4 | 3 | 15 | 5+5 | 50 | D | 3 | 1d6 | N | A | 9 | 6.4 | D | S1, M1 | Poison |
+| Giant Sea Horse | 1d20 | 7 | 0 | 2 | - | - | 1 | 1d6 | N | A | 1 | 2 | U | S2, M1 | Swimming (12) |
+| Giant Sea Snake | 1d8 | 5 | 3 | 6 | - | - | 2 | 2d6 | N | A | 9 | 6 | U | O, M1 | Swimming (20), Poison, Constriction |
+| Giant Sea Spider | 1d12 | 5 | 6 | 4 | 65 | F | 1 | 1d6 | N | A | 4 | 4 | U | S2, M1 | Poison |
+| Giant Shark | 2d6 | 5 | 0 | 10 | - | - | 1 | 2d6+2 | N | A | 11 | 10 | U | S2 | Swimming (24), Swallowing |
+| Giant Slug | 1 | 8 | 6 | 12+2 | - | - | 1 | 1d6+1 | N | A | 8 | 12.6 | D | S1 | AcidSpit |
+| Giant Spider | 1d8 | 4 | 3 | 4+4 | 70 | C | 1 | 1d6+2 | N | A | 6 | 5.1 | D | M1 | Poison, WebMove (12) |
+| Giant Squid | 2d6 | 7 | 3 | 6 | 20 | A | 10 | 1d6 | N | A | 11 | 6 | U | O, S2, M1 | Swimming (12), Constriction, Jet, InkCloud |
+| Giant Stag Beetle | 2d6 | 3 | 6 | 6 | - | - | 2 | 1d6+1 | N | A | 6 | 6 | W | S2 | - |
+| Giant Tick | 3d4 | 4 | 3 | 3 | - | - | 1 | 1d3 | N | A | 2 | 3 | D | S1 | BloodDrain (4), Disease |
+| Giant Toad | 2d6 | 6 | 3 | 2 | - | - | 1 | 1d6 | N | A | 3 | 2 | D | S1, S2 | Leaping, Constriction, Poison |
+| Giant Warrior Ant | 1d20 | 3 | 18 | 3 | 10 | - | 1 | 1d6 | N | A | 4 | 3 | D | M1 | Poison |
+| Giant Wasp | 3d10 | 5 | 6 | 3 | - | - | 1 | 1d6 | N | A | 4 | 3 | D | S2 | Flight (24), Poison |
+| Giant Weasel | 1d8 | 6 | 15 | 3+3 | 15 | - | 1 | 1d6 | N | A | 3 | 3.9 | D | S1, M1 | BloodDrain (6) |
+| Giant Worker Ant | 2d10 | 3 | 18 | 2 | 10 | - | 1 | 1d6 | N | A | 2 | 2 | D | M1 | - |
+| Gnoll | 3d10 | 5 | 9 | 2 | 30 | D | 1 | 1d6 | C | H | 2 | 2 | D | O | Bravery (2) |
+| Gnome | 4d10x10 | 5 | 6 | 1 | 60 | C | 1 | 1d6 | L | F | 1 | 1 | W | O | SaveBonus (4), DodgeGiants |
+| Goblin | 4d10x10 | 6 | 6 | 1-1 | 50 | C | 1 | 1d3 | C | H | 1 | 0.8 | D | O | LightSensitivity |
+| Gold Dragon | 1d4 | 2 | 9 | 11 | 60 | H | 2 | 2d6 | L | B | 35 | 11 | D | O | Flight (24), Detection (15), Fear (2), FireBreath, PoisonBreath, Spells |
+| Gorgon | 1d4 | 2 | 12 | 8 | 50 | E | 1 | 2d6 | C | B | 11 | 8 | D | O | PetrifyingBreath |
+| Gray Ooze | 1 | 8 | 1 | 3 | - | - | 1 | 2d6 | N | S | 4 | 3 | D | O | MetalEating, FireImmunity, ColdImmunity |
+| Green Dragon | 1d4 | 2 | 9 | 8 | 60 | H | 2 | 2d6 | N | B | 14 | 8 | D | O | Flight (24), Detection (15), Fear (2), PoisonBreath |
+| Green Slime | 1 | 9 | 0 | 2 | - | - | 1 | 0 | N | S | 3 | 2 | D | O | FleshEating, WoodEating, MetalEating, VoltImmunity, ChopImmunity |
+| Griffon | 2d8 | 3 | 12 | 7 | 10 | E | 2 | 1d6+2 | N | F | 8 | 7 | W | O | Flight (30) |
+| Guardian Naga | 1 | 5 | 15 | 11 | 60 | H | 1 | 1d6 | L | B | 11 | 11 | D | SR3, M1 | Poison, PoisonSpit, Constriction, Spells |
+| Harpy | 2d6 | 7 | 6 | 3 | 20 | C | 1 | 1d6 | C | B | 4 | 3 | D | S1 | Flight (15), AlluringSong, CharmTouch |
+| Heavy Horse | 1 | 7 | 12 | 3 | - | - | 2 | 1d6 | N | A | 3 | 3 | W | CM, O, SS | - |
+| Hell Hound | 2d4 | 4 | 12 | 3 | 25 | C | 1 | 1d6 | C | B | 4 | 3 | D | S1 | FireBreath (3), Stealth (2), Detection |
+| Hero | 1 | 2 | 9 | 4 | - | - | 1 | 1d8 | N | M | 4 | 4 | D | O | NPC |
+| Hill Giant | 1d8 | 4 | 12 | 8 | 30 | E | 1 | 2d6 | C | H | 8 | 8 | D | O | RockHurling |
+| Hippogriff | 2d8 | 5 | 18 | 3+1 | - | - | 2 | 1d6 | L | F | 3 | 3.3 | W | O | Flight (36) |
+| Hobgoblin | 2d10x10 | 5 | 9 | 1+1 | 30 | D | 1 | 1d6 | C | H | 1 | 1.3 | D | O | Bravery (1) |
+| Homunculus | 1 | 7 | 6 | 2 | - | - | 1 | 1d3 | N | B | 1 | 2 | X | S1 | Flight (18), Telepathy |
+| Huge Spider | 1d12 | 6 | 18 | 2+2 | 50 | - | 1 | 1d6 | N | A | 3 | 2.6 | D | M1 | Poison (1), Stealth (3), Hopping |
+| Invisible Stalker | 1 | 3 | 12 | 8 | - | - | 1 | 1d6+2 | N | X | 8 | 8 | X | O | Invisibility, Tracking |
+| Iron Golem | 1 | 2 | 3 | 24 | - | - | 1 | 4d6 | N | B | 140 | 24 | D | S1 | MagicToHit (3), MagicImmunity, PoisonBreath (1) |
+| Ixitxachitl | 3d6x10 | 5 | 0 | 2-1 | 75 | F | 1 | 2d6 | C | B | 2 | 1.7 | U | S2, M1 | Swimming (9) |
+| Jackal | 1d6 | 8 | 12 | 1/2 | - | - | 1 | 1d3 | N | A | 1 | 0.6 | W | S1, M1 | - |
+| Kobold | 4d10x10 | 7 | 6 | 1/2 | 50 | C | 1 | 1d3 | C | H | 1 | 0.6 | D | O | LightSensitivity |
+| Lammasu | 2d4 | 6 | 12 | 6+2 | 40 | A | 2 | 1d6 | L | B | 7 | 6.6 | D | S1 | Flight (24), Invisibility, DimensionDoor, Spells, ProtectionFromEvil |
+| Large Air Elemental | 1 | 2 | 36 | 16 | - | - | 1 | 1d6 | N | X | 22 | 16 | X | O, S1 | Flight (36), Whirlwind (3), MagicToHit (2) |
+| Large Earth Elemental | 1 | 2 | 6 | 16 | - | - | 1 | 3d6 | N | X | 36 | 16 | X | O, S1 | MagicToHit (2) |
+| Large Fire Elemental | 1 | 2 | 12 | 16 | - | - | 1 | 2d6 | N | X | 33 | 16 | X | O, S1 | MagicToHit (2) |
+| Large Roc | 1d20 | 4 | 6 | 18 | 20 | I | 2 | 3d6 | L | F | 24 | 18 | W | O | Flight (48), Detection |
+| Large Sea Monster | 1d4 | 4 | 3 | 45 | - | - | 1 | 5d6 | N | A | 45 | 45 | U | O, S1, S2 | Swimming (15), Swallowing |
+| Large Spider | 2d10 | 8 | 6 | 1+1 | 75 | - | 1 | 1d3 | N | A | 2 | 1.3 | D | S1, M1 | Poison (2) |
+| Large Water Elemental | 1 | 2 | 6 | 16 | - | - | 1 | 2d6 | N | X | 33 | 16 | X | O, S1 | Swimming (18), MagicToHit (2) |
+| Leprechaun | 1 | 8 | 15 | 1/2 | 10 | F | 1 | 1d3 | N | F | 1 | 0.6 | W | SR3, M1 | Invisibility, Illusion, Ventriloquism, PolymorphObjects, KeenEars |
+| Lich | 1d4 | 3 | 6 | 10 | 100 | A | 1 | 1d6 | N | U | 40 | 10 | D | S1 | Fear (4), Paralysis, Spells (18) |
+| Light Horse | 1 | 7 | 24 | 2 | - | - | 1 | 1d6 | N | A | 1 | 2 | W | CM, O, SS | - |
+| Lion | 2d6 | 6 | 12 | 5 | 25 | - | 2 | 1d6 | N | A | 5 | 5 | W | S1, M1 | Stealth (2), Rending |
+| Lizard Man | 1d4x10 | 5 | 6 | 2+1 | 40 | D | 1 | 1d6 | N | H | 2 | 2.3 | D | S1 | Swimming (12) |
+| Locathah | 3d10x10 | 7 | 0 | 2+1 | - | - | 1 | 1d6 | N | H | 2 | 2.3 | U | S2, M1 | Swimming (12) |
+| Lord | 1 | 2 | 9 | 9 | - | - | 1 | 1d8 | N | M | 9 | 9 | D | O | NPC |
+| Lurker Above | 1d4+1 | 6 | 1 | 10 | 50 | - | 2 | 1d6 | N | B | 9 | 10 | D | SR3, M1 | Flight (9), Camouflage, Smothering |
+| Magician | 1 | 9 | 12 | 6 | - | - | 1 | 1d4 | N | M | 11 | 6 | D | O | NPC, Spells |
+| Manticore | 1d4 | 4 | 12 | 6+1 | 25 | D | 3 | 1d6 | C | B | 9 | 6.3 | D | O | Flight (18), TailSpikes |
+| Masher | 1d4 | 6 | 0 | 20 | 25 | D | 2 | 1d6+2 | N | B | 28 | 20 | U | S2, M1 | Swimming (15), Swallowing, Poison |
+| Mastodon | 1d12 | 6 | 15 | 12 | - | - | 3 | 2d6 | N | A | 16 | 12 | W | S1, M1 | - |
+| Medium | 1 | 9 | 12 | 1 | - | - | 1 | 1d4 | N | M | 2 | 1 | D | O | NPC, Spells |
+| Medium Air Elemental | 1 | 2 | 36 | 12 | - | - | 1 | 1d6 | N | X | 18 | 12 | X | O, S1 | Flight (36), Whirlwind (3), MagicToHit (2) |
+| Medium Earth Elemental | 1 | 2 | 6 | 12 | - | - | 1 | 3d6 | N | X | 26 | 12 | X | O, S1 | MagicToHit (2) |
+| Medium Fire Elemental | 1 | 2 | 12 | 12 | - | - | 1 | 2d6 | N | X | 20 | 12 | X | O, S1 | MagicToHit (2) |
+| Medium Horse | 1 | 7 | 18 | 2+1 | - | - | 2 | 1d6 | N | A | 2 | 2.3 | W | CM, O, SS | - |
+| Medium Roc | 1d20 | 4 | 6 | 12 | 20 | I | 2 | 2d6 | L | F | 14 | 12 | W | O | Flight (48), Detection |
+| Medium Sea Monster | 1d4 | 4 | 3 | 30 | - | - | 1 | 4d6 | N | A | 33 | 30 | U | O, S1, S2 | Swimming (15), Swallowing |
+| Medium Water Elemental | 1 | 2 | 6 | 12 | - | - | 1 | 2d6 | N | X | 20 | 12 | X | O, S1 | Swimming (18), MagicToHit (2) |
+| Medusa | 1d4 | 8 | 9 | 4 | 75 | F | 2 | 1d6 | C | B | 11 | 4 | D | O | PetrifyingGaze, Poison |
+| Merman | 3d10x10 | 7 | 3 | 1+1 | 40 | A | 1 | 1d6 | N | M | 1 | 1.3 | U | O, S2 | Swimming (15), Grappling, LandWeakness |
+| Mind Flayer | 1d4 | 5 | 12 | 8+3 | 50 | F | 4 | 0 | N | B | 16 | 8.9 | D | SR1 | MagicResistance (90), MindBlast, Constriction, BrainConsumption |
+| Minotaur | 1d8 | 6 | 12 | 6 | 10 | C | 2 | 1d6+2 | N | B | 6 | 6 | D | O | Fearlessness |
+| Minotaur Lizard | 1d6 | 3 | 9 | 8 | 50 | E | 2 | 2d6 | N | A | 10 | 8 | D | S2 | - |
+| Morkoth | 1 | 3 | 0 | 8 | 100 | H | 1 | 1d6 | C | B | 10 | 8 | U | S2, M1 | Charm (-4), SpellReflection |
+| Mule | 1 | 7 | 12 | 2+1 | - | - | 1 | 1d6 | N | A | 2 | 2.3 | W | O | - |
+| Mummy | 1d12 | 3 | 6 | 5+1 | 30 | D | 1 | 1d6 | C | U | 6 | 5.3 | D | O | MagicToHit (1), ChopResistance, FireVulnerability, Rotting |
+| Myrmidon | 1 | 2 | 9 | 6 | - | - | 1 | 1d8 | N | M | 6 | 6 | D | O | NPC |
+| Necromancer | 1 | 9 | 12 | 10 | - | - | 1 | 1d4 | N | M | 24 | 10 | D | O | NPC, Spells |
+| Nixie | 1d10x10 | 7 | 12 | 1 | 100 | B | 1 | 1d3 | N | F | 1 | 1 | U | O | Swimming (9), CharmPerTen, Grappling |
+| Nomad | 3d10x10 | 6 | 12 | 1 | 15 | A | 1 | 1d6 | N | M | 1 | 1 | W | O | - |
+| Ochre Jelly | 1 | 8 | 3 | 5 | - | - | 1 | 1d6 | N | S | 4 | 5 | D | O | WoodEating, VoltImmunity, ChopImmunity, Splitting |
+| Ogre | 3d6 | 5 | 9 | 4+1 | 30 | C | 1 | 1d6+2 | C | H | 4 | 4.3 | D | O | - |
+| Ogre Mage | 1d6 | 4 | 9 | 5+2 | 40 | E | 1 | 2d6 | C | H | 18 | 5.6 | D | S1 | Flight (15), Invisibility, Darkness, Polymorphism, Regeneration (1), Spells |
+| Orc | 3d10x10 | 6 | 9 | 1 | 50 | D | 1 | 1d6 | C | H | 1 | 1 | D | O | LightSensitivity |
+| Owl Bear | 1d4+1 | 5 | 12 | 5 | 40 | C | 2 | 1d6+1 | N | B | 6 | 5 | D | S1 | Rending |
+| Pegasus | 1d12 | 6 | 24 | 2+2 | - | - | 2 | 1d6 | L | F | 2 | 2.6 | W | O | Flight (48) |
+| Phase Spider | 1d6 | 6 | 6 | 5 | 80 | E | 1 | 1d6 | N | B | 8 | 5 | D | S1 | Phasing, Poison |
+| Piercer | 2d6 | 3 | 1 | 1 | - | - | 1 | 1d6 | N | B | 1 | 1 | D | SR3, M1 | Camouflage |
+| Pirate | 3d10x10 | 6 | 12 | 1 | 15 | A | 1 | 1d6 | C | M | 1 | 1 | W | O | - |
+| Pixie | 1d10x10 | 6 | 9 | 1 | 25 | C | 1 | 1d3 | N | F | 1 | 1 | W | O | Flight (18), Invisibility |
+| Portugese Man-Of-War | 2d6 | 8 | 0 | 2 | - | - | 4 | 1d6 | N | A | 5 | 2 | U | S2, M1 | Swimming (3), Stealth (3), Paralysis |
+| Pungi Ray | 1d4 | 6 | 0 | 6 | - | - | 1 | 1d4 | N | A | 6 | 6 | U | S2, M1 | Swimming (6), Stealth (3), Poison |
+| Purple Worm | 1d4 | 6 | 6 | 15 | 25 | D | 2 | 2d6 | N | B | 22 | 15 | D | O | Swallowing, Poison, Fearlessness |
+| Rakshasa | 1d4+1 | -4 | 12 | 7 | 20 | F | 2 | 1d6 | C | B | 55 | 7 | D | SR5, M1 | MindReading, Illusion, Spells, MagicImmunity, MagicToHit, ChopResistance (3) |
+| Ram | 1d6 | 7 | 15 | 3 | - | - | 1 | 1d6 | N | A | 2 | 3 | W | S1, M2 | Charge |
+| Rat | 1d100 | 7 | 15 | 1/6 | - | - | 1 | 1 | N | A | 0 | 0.3 | D | M2 | - |
+| Red Dragon | 1d4 | 2 | 9 | 10 | 60 | H | 2 | 2d6 | C | B | 20 | 10 | D | O | Flight (24), Detection (15), Fear (2), FireBreath |
+| Roper | 1d3 | 0 | 3 | 10 | 90 | D | 1 | 3d6 | C | B | 18 | 10 | D | SR2 | MagicResistance (80), SappingStrands, VoltImmunity, ColdResistance, FireVulnerability |
+| Rust Monster | 1d2 | 2 | 12 | 5 | - | - | 1 | 1d3 | N | B | 5 | 5 | D | S1 | MetalEating |
+| Sabre-Tooth Tiger | 1d2 | 6 | 12 | 7+2 | 10 | - | 2 | 1d6+1 | N | A | 7 | 7.6 | W | S1, M1 | Stealth (2), Rending |
+| Sahuagin | 1d6x10 | 4 | 0 | 2 | 30 | A | 1 | 1d6+1 | C | H | 2 | 2 | U | S2, M1 | Swimming (18), LightSensitivity |
+| Salamander | 1d4+1 | 5 | 9 | 7+3 | 65 | F | 2 | 2d6 | C | B | 9 | 7.9 | D | S1 | Heat, Constriction, FireImmunity |
+| Seer | 1 | 9 | 12 | 2 | - | - | 1 | 1d4 | N | M | 4 | 2 | D | O | NPC, Spells |
+| Shadow | 2d10 | 7 | 9 | 2+2 | 50 | F | 1 | 1d3 | C | B | 3 | 2.6 | D | S1 | MagicToHit (1), StrengthDrain, Spawn, UndeadImmunity |
+| Shambling Mound | 1d3 | 0 | 6 | 8 | 25 | I | 2 | 1d6+2 | N | B | 18 | 8 | W | SR3, M1 | Smothering, FireImmunity, VoltImmunity, ColdResistance, ChopResistance |
+| Shrieker | 1d4+1 | 7 | 1 | 3 | - | - | 0 | 0 | N | S | 3 | 3 | D | SR3, M1 | Shrieking |
+| Six-Headed Hydra | 1 | 5 | 12 | 6 | 25 | B | 6 | 1d6 | N | B | 8 | 6 | D | O | ManyHeads |
+| Skeleton | 3d10 | 7 | 6 | 1 | - | - | 1 | 1d6 | N | U | 1 | 1 | D | O | Fearlessness |
+| Slithering Tracker | 1 | 5 | 12 | 5 | 15 | C | 1 | 0 | N | B | 8 | 5 | D | SR5, M1 | Invisibility, Paralysis, Tracking |
+| Small Air Elemental | 1 | 2 | 36 | 8 | - | - | 1 | 1d6 | N | X | 10 | 8 | X | O, S1 | Flight (36), Whirlwind (3), MagicToHit (2) |
+| Small Earth Elemental | 1 | 2 | 6 | 8 | - | - | 1 | 3d6 | N | X | 18 | 8 | X | O, S1 | MagicToHit (2) |
+| Small Fire Elemental | 1 | 2 | 12 | 8 | - | - | 1 | 2d6 | N | X | 15 | 8 | X | O, S1 | MagicToHit (2) |
+| Small Roc | 1d20 | 4 | 6 | 6 | 20 | I | 2 | 1d6 | L | F | 5 | 6 | W | O | Flight (48), Detection |
+| Small Sea Monster | 1d4 | 4 | 3 | 15 | - | - | 1 | 3d6 | N | A | 18 | 15 | U | O, S1, S2 | Swimming (15), Swallowing |
+| Small Water Elemental | 1 | 2 | 6 | 8 | - | - | 1 | 2d6 | N | X | 15 | 8 | X | O, S1 | Swimming (18), MagicToHit (2) |
+| Magic-User | 1 | 9 | 12 | 9 | - | - | 1 | 1d4 | N | M | 20 | 9 | D | O | NPC, Spells |
+| Spectre | 1d8 | 2 | 15 | 6 | 25 | E | 1 | 1d6 | C | U | 8 | 6 | D | O | Flight (30), MagicToHit (1), EnergyDrain (2), Spawn |
+| Spirit Naga | 1 | 5 | 15 | 9 | 60 | H | 1 | 1d3 | C | B | 22 | 9 | D | SR3, M1 | Poison, Charm, Spells (7) |
+| Stirge | 3d10 | 7 | 18 | 1 | 55 | D | 1 | 1d3 | N | A | 1 | 1 | D | S1 | Flight (18), HitBonus (3), BloodDrain (4) |
+| Stone Giant | 1d8 | 4 | 12 | 9 | 30 | E | 1 | 2d6 | C | H | 9 | 9 | D | O | RockHurling |
+| Stone Golem | 1 | 5 | 6 | 18 | - | - | 1 | 3d6 | N | B | 55 | 18 | D | S1 | MagicToHit (2), MagicImmunity, Slowing |
+| Storm Giant | 1d8 | 4 | 15 | 15 | 30 | E | 1 | 3d6+3 | N | H | 17 | 15 | D | S1 | RockHurling, WeatherControl |
+| Superhero | 1 | 2 | 9 | 8 | - | - | 1 | 1d8 | N | M | 8 | 8 | D | O | NPC |
+| Swashbuckler | 1 | 2 | 9 | 5 | - | - | 1 | 1d8 | N | M | 5 | 5 | D | O | NPC |
+| Swordsman | 1 | 2 | 9 | 3 | - | - | 1 | 1d8 | N | M | 3 | 3 | D | O | NPC |
+| Ten-Headed Hydra | 1 | 5 | 12 | 10 | 25 | B | 10 | 1d6 | N | B | 17 | 10 | D | O | ManyHeads |
+| Thaumaturgist | 1 | 9 | 12 | 5 | - | - | 1 | 1d4 | N | M | 8 | 5 | D | O | NPC, Spells |
+| Theurgist | 1 | 9 | 12 | 4 | - | - | 1 | 1d4 | N | M | 7 | 4 | D | O | NPC, Spells |
+| Titan | 1 | 2 | 15 | 20 | 5 | A | 1 | 3d6+3 | N | H | 50 | 20 | D | S1, S3 | MagicResistance (60), Spells |
+| Trapper | 1 | 3 | 3 | 12 | 70 | G | 2 | 1d6+2 | N | B | 12 | 12 | D | SR5, M1 | Camouflage, Regeneration (1), FireResistance, ColdResistance, Constriction |
+| Treant | 1d4 | 2 | 6 | 8 | - | - | 2 | 2d6 | L | F | 25 | 8 | W | O | SummonTrees |
+| Triton | 5d6 | 6 | 15 | 5 | 25 | F | 1 | 2d6 | N | H | 10 | 5 | U | S1 | MagicResistance (90), Spells |
+| Troglodyte | 3d10 | 5 | 12 | 2 | 15 | A | 1 | 1d6 | C | H | 2 | 2 | D | LCT, M1 | Stealth (2), Stench |
+| Troll | 2d6 | 4 | 12 | 6+3 | 50 | D | 2 | 1d6 | C | H | 8 | 6.9 | D | O | Regeneration (3) |
+| Tyranosaurus Rex | 1d2 | 5 | 15 | 20 | - | - | 1 | 4d6 | N | A | 18 | 20 | W | O, S1, M1 | - |
+| Umber Hulk | 1d4 | 2 | 6 | 8 | 50 | E | 2 | 1d6+1 | N | B | 12 | 8 | D | S1 | Confusion |
+| Unicorn | 1d4 | 2 | 24 | 4 | - | - | 2 | 1d6+2 | L | F | 6 | 4 | W | O | SaveBonus (6), Detection (24), DimensionDoor (36) |
+| Vampire | 1d4 | 2 | 12 | 8 | 20 | F | 1 | 1d6 | C | U | 25 | 8 | D | O, S1 | Flight (12), MagicToHit (1), Regeneration (3), EnergyDrain (2), Charm (-2), Spawn, SummonVermin, GasForm, Polymorphism, Undying |
+| Veteran | 1 | 4 | 9 | 1 | - | - | 1 | 1d8 | N | M | 1 | 1 | D | O | NPC |
+| Warlock | 1 | 9 | 12 | 8 | - | - | 1 | 1d4 | N | M | 17 | 8 | D | O | NPC, Spells |
+| Warrior | 1 | 4 | 9 | 2 | - | - | 1 | 1d8 | N | M | 2 | 2 | D | O | NPC |
+| Water Naga | 1 | 5 | 15 | 7 | 60 | H | 1 | 1d4 | N | B | 15 | 7 | U | SR3, M1 | Poison, Spells (5) |
+| Weed Eel | 1d10x10 | 8 | 0 | 1 | 100 | E | 1 | 1d3 | N | A | 2 | 1 | U | S2, M1 | Swimming (3), Stealth (3), Poison |
+| Werebear | 2d10 | 2 | 9 | 6 | 15 | C | 2 | 1d6 | L | B | 7 | 6 | D | O, S1 | Lycanthropy, SilverToHit, Rending |
+| Wereboar | 2d10 | 4 | 12 | 4+1 | 15 | C | 1 | 1d6 | N | B | 3 | 4.3 | D | O | Lycanthropy, SilverToHit |
+| Wererat | 8d4 | 7 | 12 | 3 | 35 | C | 1 | 1d6 | C | B | 2 | 3 | D | S1 | Lycanthropy, SilverToHit, Stealth (2) |
+| Weretiger | 2d10 | 3 | 12 | 5 | 15 | C | 2 | 1d6 | N | B | 5 | 5 | D | O | Lycanthropy, SilverToHit |
+| Werewolf | 2d10 | 5 | 15 | 4 | 15 | C | 1 | 1d6 | N | B | 3 | 4 | D | O | Lycanthropy, SilverToHit |
+| Whale | 1d8 | 5 | 0 | 40 | - | - | 1 | 6d6 | N | A | 40 | 40 | U | S2 | Swimming (18), Swallowing |
+| White Ape | 2d4 | 6 | 12 | 6 | 10 | C | 2 | 1d6 | N | A | 5 | 6 | D | M1, WM | - |
+| White Dragon | 1d4 | 2 | 9 | 6 | 60 | H | 2 | 2d6 | C | B | 11 | 6 | D | O | Flight (24), Detection (15), Fear (2), ColdBreath |
+| Wight | 2d12 | 5 | 9 | 3 | 60 | B | 1 | 1d6 | C | U | 3 | 3 | D | O | SilverToHit, EnergyDrain (1), Spawn |
+| Will-O-Wisp | 1 | -8 | 18 | 9 | 1 | A | 1 | 2d6 | N | X | 20 | 9 | D | S1 | Light, Invisibility |
+| Wind Walker | 1d3 | 8 | 15 | 6 | 20 | - | 1 | 2d6 | N | X | 7 | 6 | W | SR3, M1 | Flight (30), Deafening, MindReading, ChopImmunity |
+| Magic-User | 1 | 9 | 12 | 11 | - | - | 1 | 1d4 | N | M | 26 | 11 | D | O | NPC, Spells |
+| Wolf | 2d10 | 7 | 18 | 2 | 10 | - | 1 | 1d6 | N | A | 1 | 2 | W | S1, SS, M1 | - |
+| Wraith | 2d8 | 3 | 12 | 4 | 20 | E | 1 | 1d6 | C | U | 4 | 4 | D | O | Flight (24), SilverToHit, EnergyDrain (1), Spawn |
+| Wyvern | 1d6 | 3 | 9 | 7 | 60 | E | 1 | 1d6+2 | N | B | 9 | 7 | D | O | Flight (24), Poison |
+| Yellow Mold | 1 | 9 | 0 | 1 | - | - | 1 | 1d6 | N | S | 2 | 1 | D | O | SporeCloud, WoodEating, VoltImmunity, ColdImmunity, ChopImmunity |
+| Yeti | 1d6 | 6 | 12 | 4 | 10 | D | 2 | 1d6 | N | B | 7 | 4 | W | SR3, M1 | Camouflage, Hypnosis, Rending, ColdImmunity, FireVulnerability |
+| Zombie | 3d10 | 8 | 6 | 2 | - | - | 1 | 1d6 | N | U | 2 | 2 | D | O | Fearlessness |
