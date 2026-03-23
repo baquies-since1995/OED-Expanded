@@ -2,16 +2,21 @@
 
 This section gives references, citations, and justifications for OED rules. We do the research so you don't have to.
 
-## Origins of OED Expanded
-OED Expanded began with the work of Dan "Delta" Collins' to create an easy to remember approach to original 1974 D&D, which he has extensively documented on his blog: https://deltasdnd.blogspot.com/.  The work for OED Expanded in itself grew from my desire to have an all-in-one document for the OED system that I could easily reference or hand to a player.  It started as just compiling the house rules from OEDgames.com, filling in the gaps with info from the 3 original books, extensive parsing of the OED footnotes and Delta's blog, and finally creating prose to communicate the rules.  Over time it continued to evolve to include all things OED; Delta's rules, various "Additional Material" from the blog and WanderingDMs discord.  
-The big add was the Campaign Material section, once I had compiled all of the rules info, it occured to me that there was a "missing manual" with regard to HOW to assemble a game and use the rules.  The Campaign Material sections is hardly exhaustive or definitive, much more talented folks than I have put together great resources on these topics.  Instead, my hope was to provide enough information that a new Judge could get started running a campaign.  
-Once the assembly and writing was finished, I shared a copy with Delta.  This of course led to rounds of revisions, discussions, clarifications, and changes (Both to OED Expanded, and OED itself).  From this months long collaboration grew the OED Expanded Gitub, which Dan has turned his programmer brain to script this document.  I hope it proves of some value.
--William "Baquies" Heilman
+## On the Expanded Edition
+OED Expanded began with the work of Dan "Delta" Collins' to create an easy to remember approach to original 1974 D&D, which he has extensively documented on his blog: [https://deltasdnd.blogspot.com/](https://deltasdnd.blogspot.com/).  
+The work for OED Expanded in itself grew from my desire to have an all-in-one document for the OED system that we could easily reference or hand to a player. Wherever possible, we have endevored to keep this document in line with the original game and the published OED house rules.  Any gaps have been filled using information from the blog and classic sources.
+We have published this here to allow fans of the system to easily make their own adjustments and make the game their own.
 
 ## Original Footnotes
 The Original Edition Delta house rules documents contain extensive footnotes related to the justifications for rules decision in the OED system.  Rather than duplicate those notes, they can be referenced at the following:
 - [OED Player's Rules](http://oedgames.com/OED-PlayersRules-1.0.7.pdf)
 - [OED Judge's Rules](http://oedgames.com/OED-JudgesRules-1.0.7.pdf)
+
+## Book Costs
+
+For real-world book costs, consider the following blog by Aidan Conti as a starting point. Cites incscriptions in some medieval books indicating manufacture & cost. One breaks down costs as about 8 s. for parchment, 29 s. forscribing, 3 s. for correcting, 1 s. illustration, 1 s. for binding; total 42 s. (Note that about 1/5 the cost is for parchment & binding; compare to costs for complete spellbooks at the end of OD&D Vol-1. Also, those books assume an entire level of spells per Vol-1, which average about 12 spells each. See AD&D Unearthed Arcana for expected size of books, etc. We assume 1st-level wizards appear with pre-existing books from their apprenticeship. Books can't be _too_ valuable or the main influx of money to the campaign will be new wizard PCs.)
+
+https://aidanc.net/2014/02/05/the-price-of-a-book-in-the-middle-ages-colophons/
 
 ## Fighter Feat Sources
 
@@ -42,10 +47,29 @@ Put another way, the various O/AD&D fighter subclasses can be approximated by se
 | Paladin         | Great fortitude, iron will, rapid strike                  |
 | Ranger          | Tracking, survival, two-weapon fighting                   |
 
-## Book Costs
 
-For real-world book costs, consider the following blog by Aidan Conti as a starting point. Cites incscriptions in some medieval books indicating manufacture & cost. One breaks down costs as about 8 s. for parchment, 29 s. forscribing, 3 s. for correcting, 1 s. illustration, 1 s. for binding; total 42 s. (Note that about 1/5 the cost is for parchment & binding; compare to costs for complete spellbooks at the end of OD&D Vol-1. Also, those books assume an entire level of spells per Vol-1, which average about 12 spells each. See AD&D Unearthed Arcana for expected size of books, etc. We assume 1st-level wizards appear with pre-existing books from their apprenticeship. Books can't be _too_ valuable or the main influx of money to the campaign will be new wizard PCs.)
 
-https://aidanc.net/2014/02/05/the-price-of-a-book-in-the-middle-ages-colophons/
+## Resources
 
+[OD&D Dungeons & Dragons Original Edition (0e)](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e)
+
+[Delta's D&D Hotspot](http://deltasdnd.blogspot.com/)
+
+[OED Games website](http://oedgames.com/)
+
+[OED Character Sheet](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
+
+[OED Monster Database](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv)
+
+[OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854)
+
+[OED Book of War](http://oedgames.com/addons/bow/index.html)
+
+[Wandering DMs website](https://wanderingdms.com/)
+
+["SUPERDAN"'s gaming notes](http://www.superdan.net/gaming/index.html)
+
+[Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
+
+[Jeff Rients' Carousing](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
 
