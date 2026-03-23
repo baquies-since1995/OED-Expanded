@@ -1,9 +1,53 @@
-# Appendix A: Additional Material
+# Appendix D: Optional Material
 
-The below additions are not offically part of OED but may be useful to
-Judges
+This section is a collection of guidelines to address events that are not typically part of a campaign focused on dungeon exploration.  They are not officially part of Original Edition Delta.
 
-## Arcana Obscura
+## Book of War Machine
+
+The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia. As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating. 
+
+To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating. The force with the highest result wins.
+
+For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.
+
+## Clerics
+
+If thou must...
+
+**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
+
+**Weapons**: Blunt Weapons (Bludgeon, Staff, Sling, and weapons with the "club" type)
+
+  |Level   |XP           |HP       |To Hit   |Class Abilities|
+  |:------ |:----------- |:------- |:------- |:----------------------------------------------|
+  |1       |0            |1d6      |+0       |Turn Undead|
+  |2       |1,500        |2d6      |+1       |Spells: 1|
+  |3       |3,000        |3d6      |+2       |Spells: 2|
+  |4       |6,000        |4d6      |+2       |Spells: 2 1; Potion and Scroll Creation|
+  |5       |12,000       |5d6      |+3       |Spells: 2 2|
+  |6       |25,000       |6d6      |+4       |Spells: 2 2 1 1|
+  |7       |50,000       |7d6      |+4       |Spells: 2 2 2 1 1|
+  |8       |100,000      |8d6      |+5       |Spells: 2 2 2 2 2; Magic Wands/Staves & Weapon Creation|
+  |9       |200,000      |8d6+1    |+6       |Spells: 3 3 3 2 2|
+  |10      |300,000      |8d6+2    |+6       |Spells: 3 3 3 3 3|
+  |11      |400,000      |8d6+3    |+7       |Spells: 4 4 4 3 3|
+  |12      |500,000      |8d6+4    |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
+  |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
+  
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
+per given creature(s).
+
+An Example Notation for a 10th level Cleric: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
+
+**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be prepared at a time (no duplicates). To cast a spell a Cleric must brandish their holy symbol with a free hand.
+
+**Spells known**: Clerics start play with knowledge of all the standard Cleric spells in Vol 1.
+
+**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
+
+**Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
+
+## Cleric and Other Spells
 
 Below is a summary of Cleric, Druid, and Magic User spells not included
 in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
@@ -90,133 +134,8 @@ For even more spells, a Judge can reference the
 [Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
-## Class Abilities
 
-### Unarmed Attacks
 
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack (Target unconcious at 0HP, crits = lethal damage).
-
-### Fighter Feats
-
-**Beast-master**: Gain a +4 to reaction/morale checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
-
-**Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not affect ranged attacks or allow spotting at a distance.
-
-**Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage, plus your full Strength bonus. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move/act) for 1 round.
-
-## Clerics
-
-If thou must...
-
-**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
-
-**Weapons**: Blunt Weapons (Bludgeon, Staff, Sling, and weapons with the "club" type)
-
-  |Level   |XP           |HP       |To Hit   |Class Abilities|
-  |:------ |:----------- |:------- |:------- |:----------------------------------------------|
-  |1       |0            |1d6      |+0       |Turn Undead|
-  |2       |1,500        |2d6      |+1       |Spells: 1|
-  |3       |3,000        |3d6      |+2       |Spells: 2|
-  |4       |6,000        |4d6      |+2       |Spells: 2 1; Potion and Scroll Creation|
-  |5       |12,000       |5d6      |+3       |Spells: 2 2|
-  |6       |25,000       |6d6      |+4       |Spells: 2 2 1 1|
-  |7       |50,000       |7d6      |+4       |Spells: 2 2 2 1 1|
-  |8       |100,000      |8d6      |+5       |Spells: 2 2 2 2 2; Magic Wands/Staves & Weapon Creation|
-  |9       |200,000      |8d6+1    |+6       |Spells: 3 3 3 2 2|
-  |10      |300,000      |8d6+2    |+6       |Spells: 3 3 3 3 3|
-  |11      |400,000      |8d6+3    |+7       |Spells: 4 4 4 3 3|
-  |12      |500,000      |8d6+4    |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
-  |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
-  
-**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
-per given creature(s).
-
-An Example Notation for a 10th level Cleric: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
-
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be prepared at a time (no duplicates). To cast a spell a Cleric must brandish their holy symbol with a free hand.
-
-**Spells known**: Clerics start play with knowledge of all the standard Cleric spells in Vol 1.
-
-**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
-
-**Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
-
-## Creatures
-
-### Familiars
-
-A Familiar is a spirit that takes on the form of a small animal to provide magical knowledge to a mortal. In practice, they function as a special sort of “hireling” for magic users. Statistics are the same as the animal form except:
-
-**Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic).
-
-**Intelligence**: d6+12.
-
-**Saves**: As owner.
-
-**Languages**: Understands/Speaks Owner's racial language and gains bonus languages per Intelligence bonus. Only the Magic User can understand the familiar. When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. In addition, the Familiar adds its Intelligence bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
-
-### Slime Splitting
-
-Assume that slimes are roughly spherical, and their hit dice are proportional to their volume, but their damage output is proportional to their surface area. Assume that the splitting stops at 1 HD. 
-
-|             |Ochre Jelly      |Black Pudding    |
-|:------------|:----------------|:----------------|
-|**Start**    |5HD, 1d6 damage  |10HD, 3d6 damage |
-|**1st Split**|2HD, 1d4 damage  |5 HD, 2d6 damage |
-|**2nd Split**|1 HD, 1d3 damage |2HD, 1d6+2 damage|
-|**3rd Split**|N/A              |1 HD, 1d6 damage |
-
-## Equipment Options
-
-### Non-Proficiency
-
-**Using prohibited Armor**: Double encumbrance, halve bonus, negate any Thief or Wizard abilities.
-
-**Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step.
-
-### Helmets
-
-Alternative rule for helmets, in case the save vs. criticals is undesirable:
-
-**Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
-
-### Upkeep Costs ###
-Should calculating and tracking 1% of XP prove troublesome, you can instead opt to charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter, 480 SP to become an 5th level Thief, 5,000 SP to become a 9th level Wizard, etc.
-
-## Grievous Wounds
-
-When a character reaches or goes below 0 hit points, the character has suffered a grievous wound and must roll on the tables below. Once for location, and again for severity.
-
-|**d%**|**Location**          | Severity Row|
-|:-----|:---------------------|:-----------:|
-|01-02 |Foot                  |A
-|03-07 |Shin                  |A
-|08-10 |Knee                  |A
-|11-20 |Thigh                 |A
-|21-22 |Groin                 |B
-|23-33 |Gut                   |C
-|34-40 |Hip                   |A
-|41-50 |Shoulder              |A
-|51-70 |Chest                 |D
-|71-73 |Hand                  |A
-|74-78 |Lower Arm             |A
-|79-81 |Elbow                 |A
-|82-91 |Upper Arm             |A
-|92-93 |Neck                  |E
-|94-96 |Face                  |F
-|97-00 |Head                  |G
-
-|**Severity d8**|**1-4**                                      |**5-7**                               |**8**               |
-|:---------------|:---------------------------------          |:--------------------------------------|:--------------------|
-|**A**          |Broken (will heal in 1d4+2 weeks)            |Maimed (Can only be healed magically) |Severed             |
-|**B**          |Broken and Stunned for 1 round               |Maimed and Unconscious                |Severed and Unconscious|
-|**C**          |Broken and Bleeding, death in d6 rounds\*    |Maimed and Internal Bleeding death in d3 rounds\*|Severed and Death in d6 rounds\*|
-|**D**          |Broken and Broken Ribs, -2 to hit and damage |Maimed and Punctured Lung, -4 to hit and damage|Severed and Death in d6 rounds\*|
-|**E**          |Broken and Death in d6 rounds\*              |Maimed and Dead  |Death in d6 rounds\* |Severed and Dead|
-|**F**          |Broken and Unconscious                       |Maimed and Death in d6 rounds\*        |Severed and Dead                |
-|**G**          |Broken and Unconscious                       |Maimed and Death in d6 rounds\*        |Severed and Dead                |
-
-*unless they receive appropriate care/magical healing.
 
 ## Language and Literacy
 
@@ -242,40 +161,128 @@ Should a creature find themselves immersed in a new language (and have no spare 
 - You can never become a Fluent speaker in this manner.
 - You will lose this language if you leave immersion for a Season or more (the Judge may allow you to “pick it up” again at an accelerated rate).
 
-## Sleep
+Long Journeys
+Perhaps you wish to abstract a long journey across a reasonably known area, instead of exploration.  For each 100 miles of travel (16 hexes), roll a Wilderness encounter (above).  In addition, roll on the table below, to describe their condition on arrival. Modify the roll by adding the Difficulty Factor of the worst terrain encountered on the route.  Parties can subtract their Survival and Tracking d6 rolls from result.
 
-- Sleeping creatures suffer a -4 penalty to surprise and detection rolls.
-  
-**Sleep Deprivation**
-- Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing.
-- Creatures suffer a cumulative -2 to rolls and checks for every rest period they miss. This penalty is recovered by 1 for every regained period of rest.
-- If needed, the Judge can enforce a Save vs Death, including the penalties above, to determine if a creature can stay awake on its own.
-
-## Tournaments and Contests
-
-### Archery
-
-Each participant gets to take 6 shots at a dish sized target 30 feet away backed by an earthen "butt". The target itself is AC 10, and some targets will have inner rings of AC 5 and AC 0. Each hit on the target scores 1 point. Inner rings are worth 2 or 3 points respectively. A critical failure misses the butt entirely.
-
-In head-to-head competition, participants alternate shots. On a critical hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
-
-### Jousting
-
-In a proper tournament joust, riders must wear plate armor and shield with no enchantments. They make use of blunted lances (subdual damage).
-
-Each ride, the participants roll their standard melee attack. On a hit, the target must save vs stone. If the save is successful, the attacker's lance breaks. If the save fails, the target is unhorsed. 
-Participants take rides until one is unhorsed.
-
-### Melee
-
-Up to 50 participants per side line up across a field in equal armor, no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal; the event ends when one side is entirely down or surrenders. 
-This can also be resolved quickly using Book of War.
+	2d6		Outcome 
+	2 or Less	Good Journey: Arrive 10% early, get a free Rumor about destination.
+	3-5		Arrive Safe: Arrive on time.
+	6-8		Delayed: Arrive 1d3 days behind, no ill effects.
+	9-11		Attacked/Bloodied: Each traveler loses one-quarter of their current HP.
+	12+		Low Resources/Exposure: Save vs Death or lose 1d6 Strength; lose ½ current HP.
+	
 
 
-## War Machine, Book of
+Nautical Adventuring
+Below is a simplified and ahistorical approach to allow manageable adventures and combats at sea.
 
-The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia. As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating. 
+Types of Vessels
+There are countless types of vessels across history for use in a game world.  Just as the various types of weapons and armor are abstracted down to a few types, vessels are presented by the types below.
 
-To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating. The force with the highest result wins.
+Oared, Large:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  Example: Trireme
+Oared, Medium: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Example: Dromon
+Oared, Small: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Example: Longship
+Sailed, Large: These multi-masted vessels are capable of safely traversing the open ocean between 
+continents. However, they are unable to traverse all but the largest rivers. Example: Galleon
+Sailed, Medium: Possessing one or two masts, they are suitable for travel on inland seas or island 
+hoping. Example: Caravel.
+Sailed, Small: Single-masted, these vessels typically hug the coasts and traverse rivers. Example: Kogge.
 
-For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.
+Vessel			Miles crossed	Tactical					Capacity/	Cost (sp) 
+Type	Dimensions	per 12 hrs	Speed		Aboard			Weapons	Avg HP	
+Oared 	 L 120’-160’; 	Oars 30		Oars*: 50’/rd 	20 Crew, 50 Warriors	150 tons/	30,000 
+Large LG	 W 20’-30’	Sail 50		Sail: 30’/rd	100 Rowers		Fore/Aft		160 HP	
+Oared VL L 75’-100’	Oars 30		Oars*: 40’/rd	15 Crew, 30 Warriors	100 tons		20,000
+Medium	 W 15’-20’	Sail 75		Sail: 50’/rd	60 Rowers				100 HP	
+Oared	 L 30’-60’; 	Oars 30		Oars*: 40’/rd	10 Crew, 20 Warriors	50 Tons		10,000
+Small SG	 W 10’-15’	Sail 60		Sail: 40’/rd	50 Rowers		Fore		60 HP	
+SailedG 	 L 100’-130’	Sail 75 		Sail: 50’/rd	20 Crew, 50 Warriors	400 tons/	40,000
+Large	 W 25’-30’								Fore/Aft		140 HP	
+SailedLM L 50’-80’; 	Sail 60 		Sail: 40’/rd	20 Crew			200 Tons/	20,000
+Medium	 W 15’-25’								Fore		85 HP	
+Sailed	 L 25’-40’; 	Sail 60 		Sail: 40’/rd	15 Crew			50 Tons		5,000
+Small SM W 10’-15’										45 HP	
+Dimensions: This is the range of Keel length and Beam width that typifies this sort of vessel. 
+Distance per 12 hours: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
+Note: Ships propelled by Oar can not travel at night, they must land in order to rest and feed the rowers.  Ships traveling rivers, shallows, or hugging coasts may not travel at night.
+Tactical Speed:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)
+*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards. 
+Aboard: This is the standard deployment of operating personnel on the vessel, including weapon crews.
+Capacity:  Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers (1 passenger depletes 1 ton).  This is equal to the vessels cost divide by 100 in tons; half again for oared vessels.
+Weapons: These are the locations of shipboard weapons in the standard build out.  The weapon, ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
+Cost: The cost of the vessel, it does not cover the cost of a crew, provisions, ammunition, documents, etc.  Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
+Average Hit Points:  Ships have a number of hit points equal to their (keel) length plus (beam) width.
+
+Ship to Ship Engagements
+Once ships are in range of siege weapons (about 1,500 feet apart), combat and movement can begin to tracked in a manner similar to characters. 
+
+Armor Class: Attacks against a ship itself by adjacent creatures are targeting a large, relatively immobile target.  When an Armor Class is called for, use AC 20.
+
+HP/Damage: The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel.  When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink (taking 1d6 x 10 minutes).
+
+Speed: During engagements, vessels use the tactical speed listed above, with modifications due to wind and weather (see below).   Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards.
+
+Turning: Oared vessels can turn 45* every 200’ traversed on a grid (60*/240’: if using hexes); Sailing vessels can turn 45* every 340’ traversed on a grid. (60*/440’: if using hexes)
+
+Wind and Weather
+When dealing with voyages (as above) we can average out the effect of wind, sea, and other factors. For ships maneuvering around one another for combat; we must know the conditions of the “battlefield”. 
+Roll below to determine the weather, and then again for the wind conditions.
+Roll a d8 to determine the wind direction, with 1 being North, proceed clockwise around the compass.
+
+	d6	Weather (Wind)
+1-3	Clear (d6; 1-3 = Calm, 4-6 = Breeze)
+4-6	Cloudy (d6: 1 = Calm, 2-6 = Breeze) 
+6*	Precipitation: (d6: 1-4 = Breeze, 5-6 = Stormy)
+
+Wind Adjustments to Sailing Speed
+As mentioned above, vessels have a base speed for tactical movement.  Tactical sailing speed is modified by the direction of the wind, relative to the vessel’s prow as noted below.
+    • In Calm Winds, Vessels cannot move under sail power.
+    • Sailing in the same direction as the wind (within 45*): No special effect, use the listed speed.
+    • Sailing perpendicular to the wind (within 45*): Reduce speed to 75% of listed value.
+    • Sailing against the wind (within 45*): Reduce speed to 50% of listed value.
+    • In Stormy conditions, Sailed vessels can not maneuver, and simply travel in the direction of the wind.  Oared vessels have a 10% chance per minute to take on water, three such instances will cause the vessel to being to sink.  
+Ship Weapons & Attacks
+When an attack roll is called for a ship’s weapon, use the attack bonus of the person manning the weapon (crew, captain, PC, etc.)  Presume a +0 to hit in most cases.
+Ballista: This bolt thrower has a 180* firing arc and can a range of 1,500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a ship and creatures in a 10 foot line.
+Light Catapult: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).  It can fire once per minute.  It inflicts 3d6 damage to a ship and creatures within a 10’ radius.
+Ramming: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10).  The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram.  Creatures aboard rammed ship must make a save vs stone or suffer 1d6 damage.  
+Sheering Oars: Vessels with oars will have them sheared off when colliding with another vessel along the given side.  When this occurs, the vessel’s oared movement rate will be reduced by half.  Rowers on the given side will take 2d6 damage, save vs stone for half.  Sheering the remaining side will render the ship unable to move.
+
+Boarding & Combat 
+Barring the effect of the highest level spells, siege weapons, or other special abilities; combat between ship’s occupants can commence when they are within missile range. 
+Grapple Lines:  Creatures on a ship can attempt to toss grapple lines in preparation to board a ship.  Treat tossing a grapple line as a thrown weapon attack against AC 9.  Defenders can cut or loosen a grapple with an appropriate attack or ability check.  Once 3 grapple points are in place, the target is considered grappled and the ship can be boarded.  Both ships are assumed to be un-moving once in a grapple
+Crew vs Crew: Once ships are grappled or otherwise in contact, combat is resolved normally and character scale with appropriate checks and modifiers for cover, climbing, swimming, etc.  Ships can be captured when the morale of the crew or the captain fails.
+
+Exploration and Encounters at Sea
+As it has been previously suggested, a GM should thoughtfully place large bodies of water as natural boundaries for campaigns.  It is likewise suggested that when a campaign moves to the open sea, that a GM use consideration in placing new land masses (populating them as they would a Wilderness).
+
+When traversing rivers and coasts, you can use the same encounter rules that you would for the prevailing terrain of the nearby land, particularly when making landfall.  By contrast, the open seas are vast, and as such, you should consider making a single encounter check per day and night.  These encounter tables can include standard aquatic monsters, great sea monsters, friendly and hostile vessels, and the occasional mysterious island!  
+Keep in mind that on a clear open sea, parties may spot one another at a distances of near 12 miles.
+
+
+
+
+
+
+Sieges
+Armor Class: The structure by itself is a large, immobile target.  When Armor Class is called for, use 20.
+
+HP/Damage:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 40 hp. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
+
+Supplies: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
+
+Siege Weapons and Attacks: When an attack roll is called for a siege weapon, use the attack bonus of the person manning the weapon (crew, captian, PC, etc.)  Presume a +0 to hit in most cases.
+	Weapon		Cost (sp)	Rate of Attack	Damage		Range
+	Ballista 		100  		1/3 rounds	2d6 		1500' 
+	Battering Ram 	100		1/2 rounds	2d6 		0
+	Catapult		200 		1/6 rounds	4d6 		500’ to 1000' 
+	Trebuchet 	400 		1/10 rounds	6d6 		500’ to 1500' 
+Ballista: This bolt thrower has a 180* firing arc at a range of 1500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a structure and creatures in a 10 foot line.  It can be fired once every 3 rounds and requires a crew of 4.
+
+Battering Ram: This is a stout 10’ log, often capped with metal, used to bash against a door.  It weighs 400 pounds and requires 10 average strength creatures to operate.  The crew can charge once every other round.
+
+Catapult: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).   It inflicts 4d6 damage to a structure and creatures within a 10’ radius.  It can be fired once every 6 rounds and requires a crew of 6.
+
+Trebuchet: This large mechanical sling can hurl rocks, irons balls, or junk in a 90* arc to ranges between 500 and 1,500 feet (-1 to hit for every 100 feet).  It inflicts 6d6 damage to a structure and creatures within a 10’ radius.   It can be fired once per minute and requires a crew of 10.
+
+
