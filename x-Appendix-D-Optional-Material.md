@@ -219,92 +219,127 @@ Perhaps you wish to abstract a long journey across a reasonably known area, inst
 ## Nautical Adventuring
 Below is a simplified and ahistorical approach to allow manageable adventures and combats at sea.
 
-Types of Vessels
+### Types of Vessels
 There are countless types of vessels across history for use in a game world.  Just as the various types of weapons and armor are abstracted down to a few types, vessels are presented by the types below.
 
+*Oared, Large*:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  Example: Trireme
+
+*Oared, Medium*: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Example: Dromon
+
+*Oared, Small*: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Example: Longship
+
+*Sailed, Large*: These multi-masted vessels are capable of safely traversing the open ocean between
+continents. However, they are unable to traverse all but the largest rivers. Example: Galleon
+
+*Sailed, Medium*: Possessing one or two masts, they are suitable for travel on inland seas or island
+hoping. Example: Caravel.
+
+*Sailed, Small*: Single-masted, these vessels typically hug the coasts and traverse rivers. Example: Kogge.
+
+| Vessel Type | Dimensions | Miles per 12 hrs | Tactical Speed | Aboard | Capacity | Cost (sp) | Weapons | Avg HP |
+|---|---|---|---|---|---|---:|---|---:|
+| Oared Large (LG) | L 120’-160’; W 20’-30’ | Oars 30; Sail 50 | Oars*: 50’/rd; Sail: 30’/rd | 20 Crew, 50 Warriors, 100 Rowers | 150 tons | 30,000 | Fore/Aft | 160 |
+| Oared Medium (VL) | L 75’-100’; W 15’-20’ | Oars 30; Sail 75 | Oars*: 40’/rd; Sail: 50’/rd | 15 Crew, 30 Warriors, 60 Rowers | 100 tons | 20,000 |  | 100 |
+| Oared Small (SG) | L 30’-60’; W 10’-15’ | Oars 30; Sail 60 | Oars*: 40’/rd; Sail: 40’/rd | 10 Crew, 20 Warriors, 50 Rowers | 50 tons | 10,000 | Fore | 60 |
+| Sailed Large (G) | L 100’-130’; W 25’-30’ | Sail 75 | Sail: 50’/rd | 20 Crew, 50 Warriors | 400 tons | 40,000 | Fore/Aft | 140 |
+| Sailed Medium (LM) | L 50’-80’; W 15’-25’ | Sail 60 | Sail: 40’/rd | 20 Crew | 200 tons | 20,000 | Fore | 85 |
+| Sailed Small (SM) | L 25’-40’; W 10’-15’ | Sail 60 | Sail: 40’/rd | 15 Crew | 50 tons | 5,000 |  | 45 |
 
 
-Dimensions: This is the range of Keel length and Beam width that typifies this sort of vessel. 
-Distance per 12 hours: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
-Note: Ships propelled by Oar can not travel at night, they must land in order to rest and feed the rowers.  Ships traveling rivers, shallows, or hugging coasts may not travel at night.
-Tactical Speed:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)
-*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards. 
-Aboard: This is the standard deployment of operating personnel on the vessel, including weapon crews.
-Capacity:  Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers (1 passenger depletes 1 ton).  This is equal to the vessels cost divide by 100 in tons; half again for oared vessels.
-Weapons: These are the locations of shipboard weapons in the standard build out.  The weapon, ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
-Cost: The cost of the vessel, it does not cover the cost of a crew, provisions, ammunition, documents, etc.  Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
-Average Hit Points:  Ships have a number of hit points equal to their (keel) length plus (beam) width.
+*Dimensions*: This is the range of Keel length and Beam width that typifies this sort of vessel. 
 
-Ship to Ship Engagements
+*Distance per 12 hours*: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
+-  Note: Ships propelled by Oar can not travel at night, they must land in order to rest and feed the rowers.  Ships traveling rivers, shallows, or hugging coasts may not travel at night.
+
+*Tactical Speed*:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)
+-  \*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards. 
+
+*Aboard*: This is the standard deployment of operating personnel on the vessel, including weapon crews.
+
+*Capacity*:  Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers (1 passenger depletes 1 ton).  This is equal to the vessels cost divide by 100 in tons; half again for oared vessels.
+
+*Weapons*: These are the locations of shipboard weapons in the standard build out.  The weapon, ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
+
+*Cost*: The cost of the vessel, it does not cover the cost of a crew, provisions, ammunition, documents, etc.  Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
+
+*Average Hit Points*:  Ships have a number of hit points equal to their (keel) length plus (beam) width.
+
+### Ship to Ship Engagements
 Once ships are in range of siege weapons (about 1,500 feet apart), combat and movement can begin to tracked in a manner similar to characters. 
 
-Armor Class: Attacks against a ship itself by adjacent creatures are targeting a large, relatively immobile target.  When an Armor Class is called for, use AC 20.
+*Armor Class*: Attacks against a ship itself by adjacent creatures are targeting a large, relatively immobile target.  When an Armor Class is called for, use AC 20.
 
-HP/Damage: The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel.  When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink (taking 1d6 x 10 minutes).
+*HP/Damage*: The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel.  When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink (taking 1d6 x 10 minutes).
 
-Speed: During engagements, vessels use the tactical speed listed above, with modifications due to wind and weather (see below).   Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards.
+*Speed*: During engagements, vessels use the tactical speed listed above, with modifications due to wind and weather (see below).   Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards.
 
-Turning: Oared vessels can turn 45* every 200’ traversed on a grid (60*/240’: if using hexes); Sailing vessels can turn 45* every 340’ traversed on a grid. (60*/440’: if using hexes)
+*Turning*: Oared vessels can turn 45* every 200’ traversed on a grid (60*/240’: if using hexes); Sailing vessels can turn 45* every 340’ traversed on a grid. (60*/440’: if using hexes)
 
-Wind and Weather
+### Wind and Weather
 When dealing with voyages (as above) we can average out the effect of wind, sea, and other factors. For ships maneuvering around one another for combat; we must know the conditions of the “battlefield”. 
 Roll below to determine the weather, and then again for the wind conditions.
 Roll a d8 to determine the wind direction, with 1 being North, proceed clockwise around the compass.
 
-	d6	Weather (Wind)
-1-3	Clear (d6; 1-3 = Calm, 4-6 = Breeze)
-4-6	Cloudy (d6: 1 = Calm, 2-6 = Breeze) 
-6*	Precipitation: (d6: 1-4 = Breeze, 5-6 = Stormy)
+| d6 | Weather (Wind) |
+|---:|---|
+| 1-3 | Clear (d6; 1-3 = Calm, 4-6 = Breeze) |
+| 4-6 | Cloudy (d6: 1 = Calm, 2-6 = Breeze) |
+| 6* | Precipitation: (\* d6: 1-4 = Breeze, 5-6 = Stormy) |
 
-Wind Adjustments to Sailing Speed
+#### Wind Adjustments to Sailing Speed
 As mentioned above, vessels have a base speed for tactical movement.  Tactical sailing speed is modified by the direction of the wind, relative to the vessel’s prow as noted below.
-    • In Calm Winds, Vessels cannot move under sail power.
-    • Sailing in the same direction as the wind (within 45*): No special effect, use the listed speed.
-    • Sailing perpendicular to the wind (within 45*): Reduce speed to 75% of listed value.
-    • Sailing against the wind (within 45*): Reduce speed to 50% of listed value.
-    • In Stormy conditions, Sailed vessels can not maneuver, and simply travel in the direction of the wind.  Oared vessels have a 10% chance per minute to take on water, three such instances will cause the vessel to being to sink.  
-Ship Weapons & Attacks
+-   In Calm Winds, Vessels cannot move under sail power.
+-   Sailing in the same direction as the wind (within 45*): No special effect, use the listed speed.
+-   Sailing perpendicular to the wind (within 45*): Reduce speed to 75% of listed value.
+-   Sailing against the wind (within 45*): Reduce speed to 50% of listed value.
+-   In Stormy conditions, Sailed vessels can not maneuver, and simply travel in the direction of the wind.  Oared vessels have a 10% chance per minute to take on water, three such instances will cause the vessel to being to sink.  
+
+### Ship Weapons & Attacks
 When an attack roll is called for a ship’s weapon, use the attack bonus of the person manning the weapon (crew, captain, PC, etc.)  Presume a +0 to hit in most cases.
-Ballista: This bolt thrower has a 180* firing arc and can a range of 1,500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a ship and creatures in a 10 foot line.
-Light Catapult: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).  It can fire once per minute.  It inflicts 3d6 damage to a ship and creatures within a 10’ radius.
-Ramming: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10).  The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram.  Creatures aboard rammed ship must make a save vs stone or suffer 1d6 damage.  
-Sheering Oars: Vessels with oars will have them sheared off when colliding with another vessel along the given side.  When this occurs, the vessel’s oared movement rate will be reduced by half.  Rowers on the given side will take 2d6 damage, save vs stone for half.  Sheering the remaining side will render the ship unable to move.
 
-Boarding & Combat 
+*Ballista*: This bolt thrower has a 180* firing arc and can a range of 1,500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a ship and creatures in a 10 foot line.
+
+*Light Catapult*: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).  It can fire once per minute.  It inflicts 3d6 damage to a ship and creatures within a 10’ radius.
+
+*Ramming*: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10).  The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram.  Creatures aboard rammed ship must make a save vs stone or suffer 1d6 damage.  
+
+*Sheering Oars*: Vessels with oars will have them sheared off when colliding with another vessel along the given side.  When this occurs, the vessel’s oared movement rate will be reduced by half.  Rowers on the given side will take 2d6 damage, save vs stone for half.  Sheering the remaining side will render the ship unable to move.
+
+### Boarding & Combat 
 Barring the effect of the highest level spells, siege weapons, or other special abilities; combat between ship’s occupants can commence when they are within missile range. 
-Grapple Lines:  Creatures on a ship can attempt to toss grapple lines in preparation to board a ship.  Treat tossing a grapple line as a thrown weapon attack against AC 9.  Defenders can cut or loosen a grapple with an appropriate attack or ability check.  Once 3 grapple points are in place, the target is considered grappled and the ship can be boarded.  Both ships are assumed to be un-moving once in a grapple
-Crew vs Crew: Once ships are grappled or otherwise in contact, combat is resolved normally and character scale with appropriate checks and modifiers for cover, climbing, swimming, etc.  Ships can be captured when the morale of the crew or the captain fails.
 
-Exploration and Encounters at Sea
+*Grapple Lines*:  Creatures on a ship can attempt to toss grapple lines in preparation to board a ship.  Treat tossing a grapple line as a thrown weapon attack against AC 9.  Defenders can cut or loosen a grapple with an appropriate attack or ability check.  Once 3 grapple points are in place, the target is considered grappled and the ship can be boarded.  Both ships are assumed to be un-moving once in a grapple
+
+*Crew vs Crew*: Once ships are grappled or otherwise in contact, combat is resolved normally and character scale with appropriate checks and modifiers for cover, climbing, swimming, etc.  Ships can be captured when the morale of the crew or the captain fails.
+
+### Exploration and Encounters at Sea
 As it has been previously suggested, a GM should thoughtfully place large bodies of water as natural boundaries for campaigns.  It is likewise suggested that when a campaign moves to the open sea, that a GM use consideration in placing new land masses (populating them as they would a Wilderness).
 
 When traversing rivers and coasts, you can use the same encounter rules that you would for the prevailing terrain of the nearby land, particularly when making landfall.  By contrast, the open seas are vast, and as such, you should consider making a single encounter check per day and night.  These encounter tables can include standard aquatic monsters, great sea monsters, friendly and hostile vessels, and the occasional mysterious island!  
+
 Keep in mind that on a clear open sea, parties may spot one another at a distances of near 12 miles.
 
+## Sieges
+A quick and dirty approach to cover a siege.
 
+*Armor Class*: The structure by itself is a large, immobile target.  When Armor Class is called for, use 20.
 
+*HP/Damage*:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 40 hp. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
 
+*Supplies*: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
 
+*Siege Weapons and Attacks*: When an attack roll is called for a siege weapon, use the attack bonus of the person manning the weapon (crew, captian, PC, etc.)  Presume a +0 to hit in most cases.
+| Weapon | Cost (sp) | Rate of Attack | Damage | Range |
+|---|---:|---|---:|---|
+| Ballista | 100 | 1/3 rounds | 2d6 | 1500' |
+| Battering Ram | 100 | 1/2 rounds | 2d6 | 0 |
+| Catapult | 200 | 1/6 rounds | 4d6 | 500' to 1000' |
+| Trebuchet | 400 | 1/10 rounds | 6d6 | 500' to 1500' |
 
-Sieges
-Armor Class: The structure by itself is a large, immobile target.  When Armor Class is called for, use 20.
+*Ballista*: This bolt thrower has a 180* firing arc at a range of 1500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a structure and creatures in a 10 foot line.  It can be fired once every 3 rounds and requires a crew of 4.
 
-HP/Damage:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 40 hp. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
+*Battering Ram*: This is a stout 10’ log, often capped with metal, used to bash against a door.  It weighs 400 pounds and requires 10 average strength creatures to operate.  The crew can charge once every other round.
 
-Supplies: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
+*Catapult*: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).   It inflicts 4d6 damage to a structure and creatures within a 10’ radius.  It can be fired once every 6 rounds and requires a crew of 6.
 
-Siege Weapons and Attacks: When an attack roll is called for a siege weapon, use the attack bonus of the person manning the weapon (crew, captian, PC, etc.)  Presume a +0 to hit in most cases.
-	Weapon		Cost (sp)	Rate of Attack	Damage		Range
-	Ballista 		100  		1/3 rounds	2d6 		1500' 
-	Battering Ram 	100		1/2 rounds	2d6 		0
-	Catapult		200 		1/6 rounds	4d6 		500’ to 1000' 
-	Trebuchet 	400 		1/10 rounds	6d6 		500’ to 1500' 
-Ballista: This bolt thrower has a 180* firing arc at a range of 1500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a structure and creatures in a 10 foot line.  It can be fired once every 3 rounds and requires a crew of 4.
-
-Battering Ram: This is a stout 10’ log, often capped with metal, used to bash against a door.  It weighs 400 pounds and requires 10 average strength creatures to operate.  The crew can charge once every other round.
-
-Catapult: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).   It inflicts 4d6 damage to a structure and creatures within a 10’ radius.  It can be fired once every 6 rounds and requires a crew of 6.
-
-Trebuchet: This large mechanical sling can hurl rocks, irons balls, or junk in a 90* arc to ranges between 500 and 1,500 feet (-1 to hit for every 100 feet).  It inflicts 6d6 damage to a structure and creatures within a 10’ radius.   It can be fired once per minute and requires a crew of 10.
-
-
+*Trebuchet*: This large mechanical sling can hurl rocks, irons balls, or junk in a 90* arc to ranges between 500 and 1,500 feet (-1 to hit for every 100 feet).  It inflicts 6d6 damage to a structure and creatures within a 10’ radius.   It can be fired once per minute and requires a crew of 10.
