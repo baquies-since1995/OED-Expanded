@@ -1,5 +1,6 @@
 # Appendix A: Monster Statistics Summary
 
+
 | Monster | Number | AC | MV | HD | Lair% | Treas | Atk | Dam | Align | Type | EHD | hdd | Env | Source | Special |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Animated Tree | 1d2 | 2 | 3 | 8 | - | - | 2 | 2d6 | L | F | 10 | 8 | W | O | - |
