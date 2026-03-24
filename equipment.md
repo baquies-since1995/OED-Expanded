@@ -4,13 +4,13 @@
 
 **Starting Money**: 3d6x10 **Silver** Pieces (SP).
 
-**Silver Standard**: OED uses a Silver standard for money. A Silver Piece in OED has the buying power of a GP in traditional sources. In published sources replace references to "gold pieces' with"silver pieces", keeping original amount. Silver becomes Copper, Platinum becomes Gold and so on.  
+**Silver Standard**: OED uses a Silver standard for money. A Silver Piece in OED has the buying power of a Gold Piece in traditional sources. In published sources, replace references to "gold pieces' with"silver pieces", keeping original amount. Silver becomes Copper, Platinum becomes Gold and so on.  
 
 *Note: Men-at-arms costs in gold from the original sources are accurate; do not convert these to silver.*
 
 **Calculating Costs**: For items not listed, take the historical value in shillings and multiply by 3 for SP cost.
 
-**Monthly Upkeep**: Equal to 1% of current XP (of highest class) in Silver Pieces, minimum 20 SP. Paid monthly. If unpaid, the character suffers a penatly of –10% to Attack rolls and HP, cumulative per month.
+**Monthly Upkeep**: Equal to 1% of current XP (total of all classes) in Silver Pieces, minimum 20 SP, paid monthly. If unpaid, the character suffers a penatly of –10% to Attack rolls and HP, cumulative per month.
 
 ## Encumbrance
 
@@ -33,7 +33,7 @@ Weapons have 5 main properties.
 
 - **Axe**: +2 to hit targets in Medium/Heavy armor, or creatures with a
 tough hide (AC 5 or better)
-- **Bludgeons**: +4 to hit targets in Heavy armor, or creatures with a very
+- **Bludgeon**: +4 to hit targets in Heavy armor, or creatures with a very
 tough hide (AC 3 or better)
 - **Ranged/Thrown**: -1 to Hit per 10', See also "Shots at Groups" under Combat.
 - **Spear**: Can be used to attack from the 2nd rank (+5') reach)
@@ -44,17 +44,17 @@ tough hide (AC 3 or better)
 |Club           |Light       |\--          |1d6       |1/3      |Thrown (60’)                           |
 |Dagger         |Light       |3            |1d4       |1/12     |“Sword”; "Thrown" (60’)                |
 |Dagger (silver)|Light       |30           |1d4       |1/12     |“Sword”; "Thrown" (60’)                |
-|Hammer         |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                 |
+|Hammer         |Light       |5            |1d6       |1/3      |“Bludgeon”; "Thrown" (60’)                 |
 |Hand Axe       |Light       |3            |1d6       |1/3      |“Axe”; "Thrown" (60’)                  |
-|Mace           |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                 |
-|Military Pick  |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                 |
+|Mace           |Light       |5            |1d6       |1/3      |“Bludgeon”; "Thrown" (60’)                 |
+|Military Pick  |Light       |5            |1d6       |1/3      |“Bludgeon”; "Thrown" (60’)                 |
 |Spear          |Light       |1            |1d6       |1/3      |“Spear”; "Thrown" (60’)                |
 |Battle Axe     |Medium      |7            |1d8       |1/3      |“Axe”                                  |
-|Morning Star   |Medium      |6            |1d8       |1/3      |“Club”                                 |
+|Morning Star   |Medium      |6            |1d8       |1/3      |“Bludgeon”                                 |
 |Polearm        |Medium      |7            |1d8       |1/3      |“Spear”; Two Handed                    |
 |Staff          |Light      |1            |1d6       |1/3      |Two Hands needed to attack              |
 |Sword          |Medium      |10           |1d8       |1/3      |“Sword”                                |
-|Flail          |Heavy       |8            |1d8       |1        |“Club”; Ignore Target Shield Bonus     |
+|Flail          |Heavy       |8            |1d8       |1        |“Bludgeon”; Ignore Target Shield Bonus     |
 |Halberd        |Heavy       |7            |1d10      |1        |“Axe”                                  |
 |Lance          |Heavy       |4            |1d8       |1        |“Spear”; x2 Damage on Charging Mount   |
 |Pike           |Heavy       |5            |1d8       |1        |“Spear”; x2 Damage when set vs charge  |
@@ -76,7 +76,7 @@ tough hide (AC 3 or better)
 |**Item**             |**Cost (SP)**|**Stone**      |**Notes**                                                                  |
 |:--------------------|:------------|:--------------|:--------------------------------------------------------------------------|
 |Coins (1000)         |Varies       |1              |When in an appropriate container                                           |
-|Rations              |5            |1              |Food for 1 person-week (e.g., salt pork or fish, tack, cheese)             |
+|Rations (Fresh)  |5            |1              |Food for 1 person-week (e.g., salt pork or fish, tack, cheese)             |
 |Iron Rations         |15           |1              |Canned food for 1 person-week (must be bought from Dwarves)                |
 |Wine (Quart)         |1            |\--            |Account for weight in wineskin                                             |
 |Water/Wine Skin      |1            |1/3            |Holds a half-gallon (full weight shown)                                    |
@@ -95,8 +95,8 @@ tough hide (AC 3 or better)
 |Ten Foot Pole        |1            |1              |                                                                           |
 |Belladona (Bunch)    |10           |\--            |Possible cure for lycanthropy.                                             |
 |Garlic (Head)        |5            |\--            |Believed to keep vampires at bay.                                          |
-|Holy Symbol (Wood)   |2            |\--            |Rumored to protect against the Undead.                                     |
 |Holy Symbol (Silver) |25           |\--            |Rumored to protect against vampires.                                       |
+|Holy Symbol (Wood)   |2            |\--            |Rumored to protect against the Undead.                                     |
 |Holy Water (Vial)    |25           |\--            |Rumored to protect harm the Undead.                                        |
 |Wolfsbane (Bunch)    |10           |\--            |Believed to ward of werewolves                                             |
 |Mule                 |20           |60             |AC 7, MV 12, HD 2+1, light load 20 stone, will go in dungeons              |
@@ -112,12 +112,11 @@ tough hide (AC 3 or better)
 |Wagon                |200          |\--            |4 Wheels, can hold 2 "long" tons (320 Stone)                               |
 |Raft                 |40           |\--            |1-2 occupants plus 60 stone, drifts with current                           |
 |Small Boat           |100          |\--            |10 – 20’ long, 4 occupants plus 1 "long: ton (160 Stone), sail or oar      |
-|Linen Garments       |5            |\--            |Provides comfort in Cool weather                                           |
-|Woolen Garments      |10           |1/3            |Provides comfort in Cold weather                                           | 
-|Fur Garments         |20           |2/3            |Provides comfort in Very Cold weather                                      | 
+|Linen Garments       |5            |\--            |Provides comfort in Cool weather. (30* - 60* F)                                           |
+|Woolen Garments      |10           |1/3            |Provides comfort in Cold weather. (0* - 30* F)                                             | 
+|Fur Garments         |20           |2/3            |Provides comfort in Very Cold weather. (Below 0* F)                                      | 
 |Room & Board (week)  |15           |\--            |Communal space and meals                                                   |
 |Sage or Specialist   |10           |\--            |Per Day Rate                                                               |
-|Monthly Upkeep       |Varies       |\--            |1% of XP in SP (min 20) per month or -10% to Attack/HP                     |
 |Post for Hirelings   |100          |\--            |Attracts 1d3 potential recruits of 1st-level (see Hirelings)               |
 |Rumors               |d6x10        |\--            |via rounds of drinks/bribes; generated by Judge.                           |
 |Potion of Healing    |200          |\--            |Heals 1d6+1 HP                                                             |
@@ -126,7 +125,7 @@ tough hide (AC 3 or better)
 
 ## Armor
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Leather and Chain armor takes 1 minute/turn to put on, Plate takes 10 minutes/turns and requires assistance.  It takes 1 round (each) to remove a shield, helm, or backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate requires 3 turns to remove with assistance.
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.  
 
 |Item                   |Cost (SP)  | AC          | Stone|
 |:----------------------|:----------|:-----------:|:----:|
