@@ -23,7 +23,7 @@ Attacks are resolved by rolling **d20 + fighter level + modifiers +
 target AC** (success on 20 or more). For actual fighters and monsters,
 the base addition is just their level or hit dice (for other classes, we
 take a ratio: 2/3 level for thieves *and clerics*; 1/2 level for Magic-Users).
-Players may wish to document their total attack adjustments; but the DM
+Players may wish to document their total attack adjustments; but the Judge
 doesn't need any new stats, because they just add the HD value for any
 attacking monsters. When PCs attack a monster, we usually keep the AC
 secret and add it mentally after the player announces their roll; note
