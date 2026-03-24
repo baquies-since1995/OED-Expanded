@@ -6,13 +6,13 @@ The core mechanic of OED is the Target 20 roll as summarized below. Some game ac
 
 **Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20
 
-**Saving Throws**: d20 + Level + Save Mod ≥ 20
+**Saving Throws**: d20 + Level + Type Modifier + Ability Score Modifer (when applicable) ≥ 20
 
 |Save Type|Save Mod|
 |:---              |:---: | 
 |Spells/Magic      |    +0|
 |Breath/Disease    |    +1|
-|Stone             |    +2|
+|Stone/Falls       |    +2|
 |Wands             |    +3|
 |Death/Poison      |    +4|
 
@@ -20,7 +20,7 @@ The core mechanic of OED is the Target 20 roll as summarized below. Some game ac
 
 **Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20.
 
-**Learn/Research Spell**: d20 + Wizard Level + Int Modifier ≥ 20.
+**Learn/Research Spell**: d20 + Magic-User Level + Int Modifier ≥ 20.
 
 ## Adventuring
 
@@ -56,7 +56,7 @@ In OED a number of tasks are resolved with a d6 roll. The chance for success is 
 |Doff Armor  |3 in 6   |Chance per round, Leather and Chain Only|
 |Force a Door|2 in 6   |\+ Strength *Bonus*: Locks/Bars -2, Reinforced Gates -4, Solid Metal -6|
 |Jumping     |N/A      |See below|
-|Survival    |2 in 6   |\+ Wisdom *Bonus*; -# of Stone carried; +/-1 for water conditions|
+|Survival    |2 in 6   |\+ Wisdom *Bonus*; modified by weather|
 |Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone carried; +/-1 for water conditions|
 |Tracking    |4 in 6\**|+/- 1 small or large parties, inclement weather, and the like|
 
@@ -76,7 +76,7 @@ In OED a number of tasks are resolved with a d6 roll. The chance for success is 
 
 **Force a Door**: Limited to one character per door panel. Special tools (ropes, ram, etc.) will allow the summation of all character's Strength modifiers.
 
-**Jumping**: A running jump will allow a halfling to human sized creature to cover a distance of d6×3 feet (plus Strength *Bonus*) (encumbrance level). Half distance for a long jump, half again for a vertical jump.
+**Jumping**: A running jump will allow a Halfling to Human sized creature to cover a distance of d6×3 feet (plus Strength *Bonus*) (encumbrance level). Half distance for a long jump, half again for a vertical jump.
 
 **Survival**: Use to locate either food, water, shelter, and avoid being lost in the wilderness.  Modified by familiarity, weather, and other factors.  Success will sustain 1 person per degree of success.
 
@@ -92,7 +92,7 @@ In general, all spells and harmful effects should require an attack or allow som
 - *Leech Fever*: –1 Strength per day. Recover 3 Strength per week of rest.
 - *Mummy Rot*: –1 Strength per day. Recovery (See Magic Diseases below).
 
-**Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot must be removed via the Remove Curse spell due in part to the lack of Clerics and the Remove Disease spell.
+**Magic Diseases**: Magical diseases such as Lycanthropy and Mummy Rot must be removed via the Remove Curse spell due in part to the lack of Clerics and the Remove Disease spell.
 
 **Drowning/Suffocation**: You have a 50% chance each round without air to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6 damage per Turn (minute) without air, damage is doubled if surprised.
 
@@ -100,9 +100,9 @@ In general, all spells and harmful effects should require an attack or allow som
 
 **Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A successful Save vs Stone halves the damage. Damage may be modified by 1 or 2 pips per die based on landing surface.
 
-**Poison**: Unless otherwise specified, a failed save vs poison means instant incapacitation, then death in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
+**Poison**: Unless otherwise specified, a failed save vs poison means instant incapacitation, then 0 HP in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
 
-**Sleep**: Sleeping creatures suffer a -4 penalty to surprise and detection rolls.  Lack of sleep prevents natural healing, imposes a cumulative -2 to rolls and checks.  The GM may rule a Save vs Death is required to stay awake in certain situations.
+**Sleep**: Sleeping creatures suffer a -4 penalty to surprise and detection rolls.  Lack of sleep prevents natural healing, imposes a cumulative -2 to rolls and checks.  The Judge may rule a Save vs Death is required to stay awake in certain situations.
 
 **Starvation**: You suffer 1d6 damage per week without food and must additionally save vs death or suffer -1d6 Strength.
 
@@ -145,11 +145,11 @@ original level), possibly resulting in death at 0hp. The number of lost HP shoul
 
 **Unarmed Attacks**: When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subduing attack (above).
 
-**Shots at Groups**: When firing at a specific individual in a crowd, if the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but *not* AC) is less than 10, it misses the (human-size) target.
+**Shots at Groups**: When firing at a specific individual in a crowd, if the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but *not* AC) is less than 10, it misses the (Halfling to Human-size) target.
 
 **Errant Shots**: Ranged attack rolls below 10 miss the target (noted above), but may hit another nearby target (determined randomly). Errant, fumbled, or random attacks into groups are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Fleeing**: A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear (See Combat Modifiers below).
+**Fleeing**: A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear.
 
 **Withdraw**: In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
 
@@ -168,10 +168,10 @@ original level), possibly resulting in death at 0hp. The number of lost HP shoul
 Below are guidelines to keep in mind when reading spell descriptions
 -   Spells generally need line-of-sight to their target point.
 -   All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells).
--   “Man-size” creatures are those of 1 HD (base, without class levels).
+-   “Man-size” creatures are those of 1 HD (base, without class levels) between Halfling and Human size.
 -   Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
 -   Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
--   Some spell durations may be listed as permanent, "until dispelled", etc. For world-building purposes, the GM should presume some secret variation in scale with these limits (say, 1d20%), so characters can't ever anticipate the exact moment when they terminate.  In general, assume the following maximum duration by level: 1st, One Day; 2nd, One Week; 3rd, One Month; 4th, One Year; 5th, One decade; 6th, One Century.
+-   Some spell durations may be listed as permanent, "until dispelled", etc. For world-building purposes, the Judge should presume some secret variation in scale with these limits (say, 1d20%), so characters can't ever anticipate the exact moment when they terminate.  In general, assume the following maximum duration by level: 1st = One Day; 2nd = One Week; 3rd = One Month; 4th = One Year; 5th = One decade; 6th = One Century.
 
 ### Spell Lists
 OED makes the below spells available to the Magic-User class. Spell attributes and effects have been standardized and are available in the
