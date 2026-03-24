@@ -1,19 +1,22 @@
 # Design a Dungeon
 
-When designing a dungeon from scratch, it should consist of several levels. Each level should have access from above and below, and be made of interlocking corridors, passages, and secret doors.
+The dungeon will be your initial and primary game play structure.  When designing a dungeon from scratch, it should consist of several levels. Each level should have access from above and below, and be made of interlocking corridors, passages, and secret doors.
 
-We will start by designing one of these levels/areas. A starting dungeon area should have 3-18 rooms of varying sizes. Ultimately, the limit is the size of your graph paper or canvas.
+Take your paper and sketch out the desired number of rooms spread out across the surface. These rooms can be standard rectangular constructed rooms, irregular shaped natural caves and tunnels, or a mix. Next, designate a room to be the main entrance to this area. Mark another area to be an exit to a different level or area.
 
-- Take your paper and sketch out a number of rooms across the surface. These rooms can be standard rectangular constructed rooms, irregular shaped natural caves and tunnels, or a mix. 
-- Next, designate a room to be the main entrance to this area.
-- Mark another area to be an exit to different level or area.
-- In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is a hidden or a secret door.
-- Now, connect your rooms with hallways. Keep in mind they aren’t simply connected all in a line. For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected. Again, there is a 50/50 chance that such a connection is concealed.
-- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Open Doorway (optional: additional 1 in 6 for a trick door: one way, portcullis, false door, etc.)
-- Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
-- Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this dungeon further.
+In addition to the main entrance and exit, an area should have an additional entrance/exit, about every 12 rooms. There is a 50/50 chance that such a point of egress is a hidden or a secret door. Now, connect your rooms with hallways. Keep in mind they aren’t simply connected all in a line. For every 6 rooms or so consider adding an additional crossover between rooms that are not yet connected. Again, there is a 50/50 chance that such a connection is concealed.
 
-At this point, you may wish to take your sketch and clean it up/redraw it. For tips on map drawing, check out: https://dysonlogos.blog/maps/tutorials-help/. But you don’t need to, your map does not need to be an artist rendering, it can look like a basic flow or org chart with squares to represent rooms and lines for hallways, with descriptive text conveying the size and layout.
+Place doors in rooms and between major spaces.  On a d6:
+-   1-3 is a Normal door;
+-   4 is a Concealed Door;
+-   5 is a Locked Door;
+-   6 is an Open Doorway; Optional: additional 1 in 6 for a trick door: one way, portcullis, false door, etc.
+
+Consider adding changes in elevation, water, and/or a rift or barrier to rooms or halls.
+
+Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this area further.
+
+At this point, you may wish to take your sketch and clean it up/redraw it. For tips on map drawing, check out: [https://dysonlogos.blog/maps/tutorials-help/](https://dysonlogos.blog/maps/tutorials-help/). But you don’t need to.  Your map does not need to be an artist rendering, it can look like a basic flow or org chart with squares to represent rooms and lines for hallways, with descriptive text conveying the size and layout.
 
 With your map finalized; each room and location should be given a number designation that you can reference when you create your map key. This key will list the contents of the room; be it treasure, traps, monsters, etc. as well as notes about important details.
 
@@ -25,28 +28,25 @@ Consider having 3 such levels or areas completed before play. When combining lev
 
 ## Populate the Dungeon
 
-We will now add features to our map. Follow the steps below, and mark the features down alongside your map, keyed to the given room (see template below)
+We will now add features to our map. Follow the steps below, and mark the features down alongside your map, keyed to the given room (see template below). Initially just jot down the outcome, you can come back through to determine the nature the Traps, Monsters, and Treasures.
 
 **Step 1**: Place one or two treasures in rooms on the first few levels on the dungeon, examples include:
 
 - One moderate magic item such as a Sword +1 or Boots of Elven Kind
-- A chest of 1000 silvers pieces and pair of 500 sp gems.
+- A chest of 1000 silver pieces and pair of 500 SP gems.
 - A cache of Jewels and Artwork valued at 2000 silver.
 
 We will use rumors of these items later when generating our settlement as a call to adventure.
 
-**Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present. Generate the trap using the OED Traps guidelines.
+**Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present. Generate the trap using the Traps Types below.
 
-**Step 3**: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present. Generate monsters appropriate for the intended level of the dungeon area. (see OED Expanded Monster guidlines)
-Monsters can be randomly selected from those of the appropriate threat level, or selected by the Judge to match the theme of the area or previous monster types. 
+**Step 3**: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present.  You will come back through later and generate monsters appropriate for the intended level of the dungeon area  (see Monster Determination below). 
 
-**Step 4**: Any room with a monster has a 3 in 6 chance for a treasure. Generate a treasure appropriate to the intended level of the dungeon area (see OED Expanded Rewards guidelines).
+**Step 4**: Any room with a monster has a 3 in 6 chance for a treasure. Generate a treasure appropriate to the intended level of the dungeon area (see Treasure Hordes below).
 
 **Step 5**: For any room *without* a monster, there is a 1 in 6 chance that a (hidden) treasure is present. Again, generate a treasure appropriate to the intended level of the dungeon area.
 
 **Step 6**: Create a list of 6 possible random encounters. Options 1-4 should match the creatures found in nearby rooms. Entries 5-6 should be special: A leader, an NPC, an entirely different monster type, etc.
-
-**Updating the Dungeon**: When an area of the dungeon is cleared of threats, there is a 1 in 6 chance per day that a group of 1HD creatures or other scavengers will fill the void. Once a “season” the Judge should re-populate the vacated areas with appropriate strength monsters as for a new dungeon.
 
 ### Adding Details
 
@@ -61,9 +61,10 @@ Now that you have a collection of rooms and their adventuring contents, it is ti
 - Chief's Room
 - Treasure Room
 
-Once you know what is in a room and decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements). If you need ideas, there is a world of random generators out there to spark the imagination.
+Once you know what is in a room and have decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements). If you need ideas, there is a world of random generators out there to spark the imagination.
 
-For rooms with doors, which ones can lock? How sturdy are they? Which way to they swing? Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
+For rooms with doors; which ones are locked or barred? how sturdy are they? which way do they swing?
+Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
 
 #### Final Pass
 With all that done, take a moment to mentally walk through your dungeon; both as a would-be adventurer and as one of the occupants. Does the placement of traps, hazards, etc. make sense? Can wandering monsters move about? Do you like the layout of the rooms, hallways, entrances, exits, etc.? If not, move things around. You don’t have to wait to the end to change anything. If a result comes up and you don’t care for it, do something else.
@@ -267,7 +268,7 @@ Within a dungeon, there is a 2 in 6 chance a monster is present in any un-alloca
 
 ### Monster Equivalent Hit Dice
 
-This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) providing a more accurate distribution of challenges. 
+This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) providing a more accurate distribution of challenges. \* Indicates The EHD for this creature is highly situational (items/magic available to PCs).
 
 |**Monster**            |**EHD**||**Monster**            |**EHD**||**Monster**            |**EHD**|
 |:----------------------|:-----:|---|:----------------------|:-----:|---|:----------------------|:-----:|
@@ -349,8 +350,6 @@ This is a measure of monster threat that can be slotted into monster determinati
 |Shadow                 |3      ||Chimera                |10     ||                       |       |
 |Shrieker               |3      ||Frost Giant            |10     ||                       |       |
 
-\* Indicates The EHD for this creature is highly situational.
-
 For a more detailed list of appropriate monsters and Equivalent Hit Dice, consult Appendix A: Monster Statistics Summary.
 
 ## Number Appearing
@@ -359,31 +358,31 @@ When stocking a dungeon, the numbers of monsters appearing is dependent on the r
 
 |EHD vs Dungeon Level|No of monsters appearing|
 |:-------------------|:-----------------------|
-|Dungeon level is greater by 3 or more    | (1d4+1)*3 or ~2 3/4 party size |
-|Dungeon level is greater by 1 or 2  | (1d4+1)*2 or ~ 1 3/4 party size|
-|Dungeon level and EHD are equal     | 1d4+1 or equal to party size |
-|EHD is greater by 1 or 2      | (1d4+1)/2 or 1/2 party size    |
-|EHD is greater by 3 or more   | (1d4+1)/3 or 1/4 party size    |
+|Dungeon level is greater by 3 or more    | (1d4+1)*3   (11; or ~2 3/4 party size) |
+|Dungeon level is greater by 1 or 2  | (1d4+1)*2   (7; or double party) |
+|Dungeon level and EHD are equal     | 1d4+1   (4; or equal to party size) |
+|EHD is greater by 1 or 2      | (1d4+1)/2   (2; or 1/2 party size) |
+|EHD is greater by 3 or more   | (1d4+1)/3   (1; or 1/4 party size)  |
 
-For a wandering monster encounter (below), cut the above number in half.
+For a wandering monster encounter (below), cut the above resulting numbers in half.
 
 For a more detailed breakdown of this formula and approach, see:
 [Underworld Overhaul, Pt. 4: Monster Numbers Appearing](https://deltasdnd.blogspot.com/2018/05/underworld-overhaul-pt-4-monster.html)
 
 ## Wandering Monsters
 
-**Checks**: Make a 1 in 6 check for wandering monsters using the below guidelines:
+**Checks**: Make a 1 in 6 check for wandering monsters using the below triggers:
 
 -   Every 15 minutes of real time play.
 -   During long searches, such as those for secret doors, etc.
 -   On the parties exit from dungeon at the end of the session.
 -   In the presence of loud/combat noise.
 
-If a wandering monster result is indicated, use the Monster Determination information below. Multiple parties of monsters may attack one another. On a near miss (result of 5), give a hint that monsters are present (ex: distant monster noise).
+If a wandering monster result is indicated, use the Wandering Monster table you created (Or determine a new monster using the Monster Determination information above). On a near miss (1 pip), give a hint that monsters are present (ex: distant monster noise).
 
 ##Treasure Hordes
 For any empty rooms in a dungeon, there is a 1 in 6 chance that a (hidden) treasure is present. For rooms with monsters, there is a 3 in 6 chance that treasure is present.
-The type of treasure present in a room of lair is determined by a series of d6 rolls.  It it recommended the GM have six color coded dice to aid in the process.  
+The type of treasure present in a room of lair is determined by a series of d6 rolls.  It is recommended the Judge have six color coded dice to aid in the process.  
 
 |Type		|Chance		|Quantity*			|Value (sp)		|
 |:--- |:---:|:---|:---|
