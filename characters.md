@@ -53,7 +53,7 @@ OED features 3 alignment options:
 
 ## Races
 
-**Movement**: In OED all PC races move at a base speed of 12" (60') per round, equivalent to brisk walking pace.
+**Movement**: All PC races move at a base speed of 12" (60') per round, equivalent to brisk walking pace.
 
 ### Humans
 Humans are found in all the lands and types as in our own world, being highly prolific and adaptable.
@@ -64,7 +64,7 @@ Humans are found in all the lands and types as in our own world, being highly pr
 
 
 ### Dwarves
-These mountain dwellers are about four feet tall, stocky of build and broad of shoulder.  Their skin a ruddy tan, brown or grey and they wear long beards. They are sturdy fighters.
+These mountain dwellers are about four feet tall, stocky of build and broad of shoulder.  Their skin is a ruddy tan, brown or grey and they wear long beards. They are sturdy fighters.
 
 **Class Options**: Fighter (max 6th), Thief (unlimited) 
 
@@ -165,7 +165,7 @@ OED features three character classes: Fighter, Thief, and Magic-User. There are 
 
 **Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable).
 
-- *Hide in Shadows*: A Thief can remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
+- *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadowy and dark placess. Requires shadows and a lack of observation prior to hiding.
 - *Move Silently*: The likelihood of the Thief moving with absolute silence.
 - *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1, the lock must be forced open - a very time consuming process.
 - *Pick Pockets*: Can also be used to allow the Thief to perform acts of sleight of hand.
@@ -197,13 +197,13 @@ OED features three character classes: Fighter, Thief, and Magic-User. There are 
   |16      |1,800,000    |11d4+5   |+8       |Spells: 5 5 5 5 5 5|
   |16+     |(+300,000)   |(+1)     |(+1/2)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
 
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
+**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.  Requires the Magic-User to gesture freely with at least 1 hand and to speak aloud.
 
-**Spellbook**: Magic-Users start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense, the same as learning spells.
+**Spellbook**: Magic-Users start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense, same as learning spells.
 
 **Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Magic-Users Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Magic-Users Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Magic-User Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
