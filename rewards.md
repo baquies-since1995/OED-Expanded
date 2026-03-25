@@ -20,4 +20,4 @@ Magic items can be generated using the tables in Vol II page 23, or [Paul's Game
 
 **Intelligent Swords**: When in conflict; d20 + (Character Intelligence + Charisma) – (Sword Ego + Intelligence) + Wound Modifier ≥ 20. 
  
-*Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5.
+ *Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5.
