@@ -1,7 +1,7 @@
-# The Magic Table
+# Appendix B: The Magic Table
 Roll on the below table to select an item type and the magical properties it contains.
 
-| d% | d6 Item (Result 1–3) | d6 Item (Result 4–6) |d% Magic Ability |
+|  | d6 Item (Result 1–3) | d6 Item (Result 4–6) |d% Magic Ability |
 |---:|---|---|---|
 | 1 | Abacus | Lute | +1, +2, or +3 (1d6/2) |
 | 2 | Amulet | Manacles | +1, +2, or +3 (1d6/2), vs creature type (roll randomly) |
