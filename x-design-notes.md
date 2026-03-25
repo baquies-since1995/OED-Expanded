@@ -1,4 +1,4 @@
-# Design Notes
+# Appendix E: Design Notes
 
 This section gives references, citations, and justifications for OED rules. We do the research so you don't have to.
 
@@ -8,13 +8,10 @@ The work for OED Expanded in itself grew from my desire to have an all-in-one do
 We have published this here to allow fans of the system to easily make their own adjustments and make the game their own.
 
 ## Original Footnotes
-The Original Edition Delta house rules documents contain extensive footnotes related to the justifications for rules decision in the OED system.  Rather than duplicate those notes, they can be referenced at the following:
-- [OED Player's Rules](http://oedgames.com/OED-PlayersRules-1.0.7.pdf)
-- [OED Judge's Rules](http://oedgames.com/OED-JudgesRules-1.0.7.pdf)
+The Original Edition Delta house rules documents contain extensive footnotes related to the justifications for rules decision in the OED system.  Rather than duplicate those notes, they can be referenced at the [OED Games](http://oedgames.com)
 
 ## Book Costs
-
-For real-world book costs, consider the following blog by Aidan Conti as a starting point. Cites incscriptions in some medieval books indicating manufacture & cost. One breaks down costs as about 8 s. for parchment, 29 s. forscribing, 3 s. for correcting, 1 s. illustration, 1 s. for binding; total 42 s. (Note that about 1/5 the cost is for parchment & binding; compare to costs for complete spellbooks at the end of OD&D Vol-1. Also, those books assume an entire level of spells per Vol-1, which average about 12 spells each. See AD&D Unearthed Arcana for expected size of books, etc. We assume 1st-level wizards appear with pre-existing books from their apprenticeship. Books can't be _too_ valuable or the main influx of money to the campaign will be new wizard PCs.)
+For real-world book costs, consider the following blog by Aidan Conti as a starting point. Cites incscriptions in some medieval books indicating manufacture & cost. One breaks down costs as about 8 s. for parchment, 29 s. for scribing, 3 s. for correcting, 1 s. illustration, 1 s. for binding; total 42 s. (Note that about 1/5 the cost is for parchment & binding; compare to costs for complete spellbooks at the end of Vol I. Also, those books assume an entire level of spells per Vol I, which average about 12 spells each. See Unearthed Arcana for expected size of books, etc. We assume 1st-level wizards appear with pre-existing books from their apprenticeship. Books can't be _too_ valuable or the main influx of money to the campaign will be new wizard PCs.)
 
 https://aidanc.net/2014/02/05/the-price-of-a-book-in-the-middle-ages-colophons/
 
