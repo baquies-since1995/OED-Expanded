@@ -6,10 +6,6 @@ This section is a collection of guidelines to address events that are not typica
 
 The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia. As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating. 
 
-To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating. The force with the highest result wins.
-
-For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.
-
 | Unit | Cost | Unit | Cost | Solo | Cost |
 |---|---:|---|---:|---|---:|
 | Light Foot | 4 | Dwarf Medium Foot | 6 | Lord 9th Level | 50 |
@@ -35,13 +31,17 @@ For a list of conditions that can modify Battle Rating (ratio of troops numbers,
 | Elf Medium Foot | 6 | Frost Giants | 80 | Gold Dragon | 80 |
 | Elf Archers | 8 | Fire Giants | 85 |  |  |
 
+To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating. The force with the highest result wins.
+
+For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.
+
 ## Clerics
 
 If thou must...
 
 **Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
 
-**Weapons**: Blunt Weapons (Bludgeon, Staff, Sling, and weapons with the "club" type)
+**Weapons**: Blunt Weapons (Club, Staff, Sling, and weapons with the "bludgeon" type)
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
   |:------ |:----------- |:------- |:------- |:----------------------------------------------|
@@ -59,14 +59,13 @@ If thou must...
   |12      |500,000      |8d6+4    |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
   |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
   
-**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
-per given creature(s).
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day per given creature(s).
 
-An Example Notation for a 10th level Cleric: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
+An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be prepared at a time (no duplicates). To cast a spell a Cleric must brandish their holy symbol with a free hand.
 
-**Spells known**: Clerics start play with knowledge of all the standard Cleric spells in Vol 1.
+**Spells known**: Clerics start play with knowledge of all the standard1st level Cleric spells in Vol 1.
 
 **Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
@@ -126,7 +125,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |Level  |Name                  |Range   |Duration    |Description |
 |:-----:|:---------------------|:-------|:-----------|:-----------------------------------------------|
 |3      |Cause Disease         |Touch   |Permanent   |When this spell is cast the target becomes diseased, losing 1d6 Strength immediately.  Each week the target must make a save vs breath or lose another 1d6 Strength.  This remains the case until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
-|3      |Continuing Darkness   |60'     |1 Week      |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light sources. Further, it prevents re-ignition of any light sources during the duration, save for a Continual (Continuing) Light spell, or similar effect.  |
+|3      |Continual Darkness   |60'     |1 Week      |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light sources. Further, it prevents re-ignition of any light sources during the duration, save for a Continual (Continuing) Light spell, or similar effect.  |
 |3      |Cure Disease          |Touch   |Instant     |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy and Mummy Rot are Curses).   |
 |3      |Explosive Runes       |Touch   |1 Week      |These visible, hand written, runes can be placed on a surface in order to trap it. When passed over they explode in a 10' radius sphere causing 4d6 fire damage. Concealed runes can be discovered by searching, and may be removed by the caster when desired or Dispel Magic. |
 |3      |Hold Animal           |60'     |6 Turns     |One or more animals, the size of a Polar Bear or smaller, within a 10' radius globe are frozen in place. The caster can opt to target a single animal (save vs Stone at a –2 penalty), or up to four total (at normal saves). |
@@ -269,7 +268,7 @@ Once ships are in range of siege weapons (about 1,500 feet apart), combat and mo
 
 *Armor Class*: Attacks against a ship itself by adjacent creatures are targeting a large, relatively immobile target.  When an Armor Class is called for, use AC 20.
 
-*HP/Damage*: The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel.  When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink (taking 1d6 x 10 minutes).
+*HP/Damage*: The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel.  When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink (taking 1d6 x 10 minutes).
 
 *Speed*: During engagements, vessels use the tactical speed listed above, with modifications due to wind and weather (see below).   Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards.
 
@@ -284,7 +283,7 @@ Roll a d8 to determine the wind direction, with 1 being North, proceed clockwise
 |---:|---|
 | 1-3 | Clear (d6; 1-3 = Calm, 4-6 = Breeze) |
 | 4-6 | Cloudy (d6: 1 = Calm, 2-6 = Breeze) |
-| 6* | Precipitation: (\* d6: 1-4 = Breeze, 5-6 = Stormy) |
+| 6* | Precipitation: (\* d6: 1-5 = Breeze, 6 = Stormy) |
 
 #### Wind Adjustments to Sailing Speed
 As mentioned above, vessels have a base speed for tactical movement.  Tactical sailing speed is modified by the direction of the wind, relative to the vessel’s prow as noted below.
@@ -313,18 +312,16 @@ Barring the effect of the highest level spells, siege weapons, or other special 
 *Crew vs Crew*: Once ships are grappled or otherwise in contact, combat is resolved normally and character scale with appropriate checks and modifiers for cover, climbing, swimming, etc.  Ships can be captured when the morale of the crew or the captain fails.
 
 ### Exploration and Encounters at Sea
-As it has been previously suggested, a GM should thoughtfully place large bodies of water as natural boundaries for campaigns.  It is likewise suggested that when a campaign moves to the open sea, that a GM use consideration in placing new land masses (populating them as they would a Wilderness).
+As it has been previously suggested, a Judge should thoughtfully place large bodies of water as natural boundaries for campaigns.  It is likewise suggested that when a campaign moves to the open sea, that a Judge use consideration in placing new land masses (populating them as they would a Wilderness).
 
 When traversing rivers and coasts, you can use the same encounter rules that you would for the prevailing terrain of the nearby land, particularly when making landfall.  By contrast, the open seas are vast, and as such, you should consider making a single encounter check per day and night.  These encounter tables can include standard aquatic monsters, great sea monsters, friendly and hostile vessels, and the occasional mysterious island!  
 
-Keep in mind that on a clear open sea, parties may spot one another at a distances of near 12 miles.
+Keep in mind that on a clear open sea, parties may spot one another at a distances of near 12 miles or more.
 
 ## Sieges
-A quick and dirty approach to cover a siege.
-
 *Armor Class*: The structure by itself is a large, immobile target.  When Armor Class is called for, use 20.
 
-*HP/Damage*:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 40 hp. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The GM is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
+*HP/Damage*:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 40 hp. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
 
 *Supplies*: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
 
