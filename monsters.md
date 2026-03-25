@@ -1,18 +1,18 @@
 # Monsters
 
-OED uses the monsters presented in Vol II with the adjustments below.
+OED uses the monsters presented in Vol II with the below guidlines.
 
 **Hit Dice**: All monsters use a d6 for their base Hit Dice, which is used to calculate combat abilities.
 
-**Equivalent Hit Dice**: Monsters in OED have an Equivalent Hit Dice value that takes into account their special abilities and relative power. This is used to determine monster encounters and XP rewards.
+**Equivalent Hit Dice**: Monsters have an Equivalent Hit Dice value that takes into account their special abilities and relative power. This is used to determine monster encounters and XP rewards.
 
-**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC ≥ 20. Monsters get a single attack per round unless otherwise noted.
+**Attacks**: Monsters get a single attack per round except in rare cases: d20 + Hit Die + Target AC ≥ 20.
 
 **Monster Damage**: Monster damage is rolled on a 1d6, unless otherwise noted.
 
-**Monster Strength**: If necessary, you can assume a Monster's Strength modifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 1.5 or 2.5 for quardrapeds, mounts, etc).
+**Monster Strength**: If necessary, you can assume a Monster’s Strength modifier is equal to 1/2 its Hit Die.
 
-**Breath Weapons**: Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon.  It can use its breath weapon a total of 3 times per day. 
+**Breath Weapons**: Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon.  It can use the breath weapon a total of 3 times per day. 
 
 **Gaze Attacks**: All creatures in line of sight of beings with Gaze Attacks must make a Save each round unless precautions are taken.
 
@@ -32,14 +32,12 @@ OED uses the monsters presented in Vol II with the adjustments below.
 
 **Horses and Mounts**: Only warhorses are usable near combat, fire, smells, etc. (others auto-fail morale).  The light load value indicates the weight that can be carried while travelling at full-speed; up to double this amount can be carried at half-speed.  The normal load values are set at 1/3 of the equine's body weight.
 
-**Slimes**: Successful attacks by these creatures will cause metal to corrode instantly. Metal weapons used against them will corrode on a successful attack. Wood is consumed at too slow a rate to affect combat.
+**Slimes**: Successful attacks by these creatures will cause metal to corrode instantly. Metal weapons used against them are 2 in 6 to corrode on a successful attack. Wood is consumed at too slow a rate to affect combat.
 
 **Undead**: Undead are (mostly) immune to backstabs, critical hits, death effects, and mental attacks.
 
 **Skeletons**: Skeletons are 1 Hit Die monsters.
 
-**Vampires**: Vampires can summon 1d10 Rats (AC 7, Mv 75', HD 1/6 (1HP), Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6).
+**Vampires**: Vampires can summon 1d10 Rats (AC 7, Mv 75', HD 1/6 (1HP), Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6).  They must save vs breath in order to attack when near garlic, etc.
 
 **Zombies**: Zombies are 2 Hit Die monsters.
-Dice, consult the [OED Monster Stat Blocks add-on]([http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf](http://www.oedgames.com/addons/houserules/OED-MonsterStatBlocks-1.1.4.pdf))
-sheet.
