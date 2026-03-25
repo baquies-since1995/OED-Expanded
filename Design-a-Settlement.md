@@ -1,6 +1,6 @@
 # Design a Settlement
 
-A settlement is a good second campaign item to work on. This first settlement is where your characters will buy supplies, rest, and collect rumors and hirelings. The first thing to determine when creating a settlement from scratch is its size. This will help define the population and features. For your initial settlement, it is recommended to start with a Village. Otherwise, you can select the size or determine it randomly with a 2d6 roll.
+A settlement is the second campaign item to work on. This first settlement is where your characters will buy supplies, rest, and collect rumors and hirelings. For your initial settlement, start with a Village.  For additional settlements, begin by determining its size by rolling 2d6 and consulting the table below.
 
 |**2d6**  |**Size**|**Max Pop**|**Market Cap**|**\# of Hirelings**|**NPC Level**|**Sphere of Influence**|
 |---------|--------|-----------|--------------|-------------------|-------------|-----------------------|
@@ -15,7 +15,7 @@ A settlement is a good second campaign item to work on. This first settlement is
 
 **Village**: Larger and more spread out, usually with at least one central stone building such as a temple or fortification. They will often have a formally recognized authority figure.
 
-**Town**: These larger communities still cluster around a single central market or “downtown”. In addition to leaders, they will have a small-dedicated watch or garrison.
+**Town**: These larger communities still cluster around a single central market or “downtown”. In addition to leaders, they will have a small-dedicated watch or garrison and protective walls.
 
 **City**: A city will have multiple civic centers, often separated by district and purpose (residential, commercial, etc.). They will almost always have walls, at least around their core. The values listed here are for the city proper; they are often surrounded by outlying villages and communities of their own.
 
@@ -26,11 +26,11 @@ A settlement is a good second campaign item to work on. This first settlement is
 
 **Market Cap**: Items below this price can be readily found for sale in the community. Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
 
-**No. of Hirelings**: This is the number of available hirelings per season in the area. 
+**No. of Hirelings**: This is the number of available hirelings, per season, in the area. 
 
 **NPC level**: This is the highest level of NPCs one is likely to encounter. Folks above this level may be present, but they are special individuals, like adventurers or authority figures, for example.
 
-**Sphere of Influence**: How much of the surrounding land the settlement is able to keep peaceful and under control, expressed in 6 miles hexes (see below). The populations of these areas are generally safe from monsters and attacks (random encounters). 
+**Sphere of Influence**: How much of the surrounding land the settlement is able to keep peaceful and under control, expressed in 6 miles hexes (see below). The populations of these areas are generally safe from monsters and attacks. Rulers will often claim a much larger space as being under their political control however.
 
 ## Populate the Settlement
 
@@ -51,13 +51,14 @@ For Cities and Capitals, it is often enough to know the main roads, gates, major
 
 ## Details
 
-With the basics of the settlement established, it is a good time to generate a collection of Hirelings and Rumors. You may also stat up any town guard, proprietors of the major establishments with whom your PC’s are likely to interact, and make a notable NPC or two (rulers, crazed hermits, etc.) of higher level. (see NPCs).
+With the basics of the settlement established, it is a good time to generate a collection of Hirelings and Rumors.  You may also stat up any town guard and proprietors of the major establishments your PC’s are likely to interact with (taverns, shops, jails), using the guidelines below.
 
-Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards. Most other townsfolk and specialists will be zero level. 
+Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards.  Most other townsfolk and specialists will be zero level (see NPCs below).
+
 
 ## Rumors
 
-**Procuring Rumors**: Characters can "buy" rumors at character creation or throughout gameplay. The cost is 1d6x10 sp, which represents buying drinks for locals, bribing guards, and buying odds and ends from traveling merchants.
+**Procuring Rumors**: Characters can "buy" rumors at character creation or throughout gameplay. The cost is 1d6x10 sp, which represents buying drinks for locals, bribing guards, and buying trinkets from traveling merchants.
 
 **Generating Rumors**: Rumors can be generated with a series of d6 rolls as shown below.
 
@@ -66,9 +67,17 @@ Hirelings will be first level. Town guard (if present) are 1st level fighters wi
 *Topic*: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules
 Lore.
 
--   *Dungeon Location*: Choose a level of the current dungeon.
--   *Wilderness Location*: Choose a location in a neighboring hex (d6), lair, new dungeon, etc.
--   *Rules Lore*: How to cure Mummy Rot, Wandering Monsters in Area, Holy Water is bunk, etc.
+-   Dungeon Location: The first few of these should be related to the treasure you placed in the main dungeon and stories about the monsters within.  Afterward you can randomly determine the dungeon level and expand the topics.
+
+-   Wilderness/Other Location: Choose a detail about a neighboring settlement, forest, lair, or hex (if you have one).  This can be a further calls to action, hints about wandering monsters, local politics, etc.
+
+-   Rules Lore: This is a chance to introduce some aspects of play that may not be obvious to the players.  “The Witch at the edge of the wood can brew you a potion if you bring her a sample”, “Consuming Belladonna will prevent the curse of becoming a wolf”, etc.
+
+*Note*:  It is recommended that your starting rumors be true/mostly true.
+
+## Finishing up
+Finally, sprinkle in some details about the settlement like you did for the dungeon.  What are the sights and sounds one is greeted by.  How do they make their living? What do the locals think of Dwarves or Magic-Users?  Does the community harbor any secrets?
+
 
 ## Tournaments and Contests
 If PC's have downtime (perhaps while waiting for a compainion to heal), the following activites may be taking place in town.
