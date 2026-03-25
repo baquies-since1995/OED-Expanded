@@ -13,7 +13,7 @@ March 2026 Rebuild
 10. [Rewards](rewards.md)
 11. [Design a Settlement](Design-a-Settlement.md)
 12. [NPCs](npcs.md)
-13. [Design a Wilderness](Design-a-Wilderness.md)
+13. [Design the Wilderness](Design-the-Wilderness.md)
 15. [Wilderness Exploration](Wilderness-Exploration.md)
 16. [PC Bases and Strongholds](PC-Bases-and-Strongholds.md)
     
