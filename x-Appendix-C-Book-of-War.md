@@ -2,7 +2,7 @@
 Mass combat between large forces of arms can be played out with statistically similar result to one on one combat using the below system.  For the full system, visit https://www.oedgames.com/.
 
 ## Basics
-Scale 
+### Scale 
 Mass Combat uses the below scale.
 | Unit | Scale |
 |---|---|
@@ -15,9 +15,9 @@ Every turn, figures can advance forward the number of inches indicated by their 
 
 | Encumbrance | Movement |
 |---|---|
-| Up to 1/3 Strength | 30’ = 12 inches |
-| Up to 2/3 Strength | 20’ = 9 inches |
-| Up to Strength | 15’ = 6 inches |
+| Up to 1/3 Strength | 60’ = 12 inches |
+| Up to 2/3 Strength | 45’ = 9 inches |
+| Up to Strength | 30’ = 6 inches |
 
 Animals and monsters also use their standard game movement. 
 
@@ -26,14 +26,14 @@ Each figure in contact with the enemy rolls one 6-sided die on their turn to att
 
 | Armor Type | Hit On |
 |---|---|
-| None / AC 10 | 3 |
-| Leather / AC 8 | 4 |
-| Chain / AC 6 | 5 |
-| Plate / AC 4 | 6 |
+| None / AC 9 | 3 |
+| Leather / AC 7 | 4 |
+| Chain / AC 5 | 5 |
+| Plate / AC 3 | 6 |
 
-Monsters with multiple "Hit Dice" (HD; same as D&D) take that number of hits before having a figure eliminated (track partial damage with a spare die). Also, for every 3 HD, they receive a +1 bonus to their attack rolls. 
+Monsters with multiple "Hit Dice" take that number of hits before having a figure eliminated (track partial damage with a spare die). Also, for every 3 HD, they receive a +1 bonus to their attack rolls. 
 
-In general, any attack modifiers from D&D can be converted to these rules by dividing by 3 and rounding down. It's most convenient if you subtract modifiers from the target number to hit, and roll the attack dice all at once; then each die greater than or equal to the adjusted target value indicates one hit.
+In general, any attack modifiers from one on one combat can be converted to these rules by dividing by 3 and rounding down. It's most convenient if you subtract modifiers from the target number to hit, and roll the attack dice all at once; then each die greater than or equal to the adjusted target value indicates one hit.
 
 ### Sequence of Play
 Initially, units are determined for each side. 
@@ -58,7 +58,7 @@ Creatures that do multiple dice worth of damage per hit, score an equivalent num
 
 Magical attacks with a sufficiently large area of effect (10-foot globe) inflict 1 hit for each die of damage listed in the description.
 
-Generally, only abilities that give at least a +3 bonus in D&D are considered for conversion.
+Generally, only abilities that give at least a +3 bonus in 1 v 1 combat are considered for conversion.
 
 ## Units of Forces 
 Before the combat can be played out, each side must assemble its available forces. This can 
