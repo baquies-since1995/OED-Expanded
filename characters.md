@@ -141,7 +141,7 @@ OED features three character classes: Fighter, Thief, and Magic-User. There are 
 
 **Armor**: Light (Leather) Armor.
 
-**Weapons**: Light Melee Weapons plus Sword, Sling, and Light Crossbow.
+**Weapons**: Light Melee Weapons plus Sling, and Light Crossbow.
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |--------------------------------------------------|
